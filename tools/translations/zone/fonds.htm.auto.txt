@@ -1,0 +1,28 @@
+@@ a1
+ez1.jpg (95837 bytes)
+@@ 2
+Ézilda Côté-Consigny
+@@ a2
+ez2.jpg (112314 bytes)
+@@ 3
+Ézilda Côté-Consigny
+@@ a3
+gercolore.jpg (62530 bytes)
+@@ a4
+jacq.jpg (135320 bytes)
+@@ 5
+Photomaton<br>
+                <font size="1">(Jacqueline Consigny)
+@@ a5
+alphonse3.jpg (175706 bytes)
+@@ a6
+arthur.jpg (86607 bytes)
+@@ a7
+alphonse_fils.jpg (173785 bytes)
+@@ a8
+rosario.jpg (90869 bytes)
+@@ a9
+verdun.jpg (66731 bytes)
+@@ 10
+Verdun&nbsp; 1951<br>
+                <font size="1">(Christiane, Nicole, André)

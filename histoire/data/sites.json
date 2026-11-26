@@ -1,0 +1,91 @@
+{
+ "titles": {
+  "zone": {
+   "fr": "ZoneCharette — page d'accueil",
+   "en": "ZoneCharette — home page"
+  },
+  "charette": {
+   "fr": "Les quatorze générations Charette d'Amérique",
+   "en": "The fourteen Charette generations in America"
+  },
+  "charettegen1": {
+   "fr": "1re génération — Mathieu Choret",
+   "en": "1st generation — Mathieu Choret"
+  },
+  "charettegen2": {
+   "fr": "2e génération — Pierre le Cadet",
+   "en": "2nd generation — Pierre le Cadet (the younger)"
+  },
+  "charettegen3": {
+   "fr": "3e génération — Pierre",
+   "en": "3rd generation — Pierre"
+  },
+  "charettegen4": {
+   "fr": "4e génération — Pierre et Marie Lemay",
+   "en": "4th generation — Pierre and Marie Lemay"
+  },
+  "charettegen5": {
+   "fr": "5e génération — Jean-Baptiste",
+   "en": "5th generation — Jean-Baptiste"
+  },
+  "charettegen6": {
+   "fr": "6e génération — Jacques",
+   "en": "6th generation — Jacques"
+  },
+  "charettegen7": {
+   "fr": "7e génération — Jacques",
+   "en": "7th generation — Jacques"
+  },
+  "charettegen8-9": {
+   "fr": "8e et 9e générations — Les deux Alphonse",
+   "en": "8th and 9th generations — The two Alphonses"
+  },
+  "charettegen10": {
+   "fr": "10e génération — Rosario et Marie-Anna",
+   "en": "10th generation — Rosario and Marie-Anna"
+  },
+  "charettegen11": {
+   "fr": "11e génération — Gérard Charette",
+   "en": "11th generation — Gérard Charette"
+  },
+  "archives_zone": {
+   "fr": "Les archives de la ZoneCharette",
+   "en": "The ZoneCharette archives"
+  },
+  "caron": {
+   "fr": "Marie-Anna Caron et Rosario Charette",
+   "en": "Marie-Anna Caron and Rosario Charette"
+  },
+  "consigny_2": {
+   "fr": "Chez les Consigny",
+   "en": "At the Consignys'"
+  },
+  "guerre-charles": {
+   "fr": "La der des ders — Charles Consigny, 1914–1919",
+   "en": "La der des ders (the war to end all wars) — Charles Consigny, 1914–1919"
+  },
+  "2vies": {
+   "fr": "Deux vies en parallèle",
+   "en": "Two parallel lives (Deux vies en parallèle)"
+  },
+  "communion": {
+   "fr": "La Première Communion",
+   "en": "First Communion"
+  },
+  "reposoir2": {
+   "fr": "Le reposoir",
+   "en": "Le reposoir (the wayside altar)"
+  },
+  "page-mathieu": {
+   "fr": "Mathieu Choret (version antérieure)",
+   "en": "Mathieu Choret (earlier version)"
+  },
+  "math_anglais": {
+   "fr": "Mathieu Choret (English)",
+   "en": "Mathieu Choret (English)"
+  }
+ },
+ "entry": {
+  "reposoir2": "reposoir2.htm"
+ }
+}

@@ -1,0 +1,237 @@
+@@ title
+ARBRE GÉNÉALOGIQUE
+@@ 1
+AT THE
+CONSIGNYS'
+@@ 2
+THE CONSIGNYS</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="FAM_COTE.HTM">THE
+CÔTÉS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="VIE.HTM"> CHARLES AND
+ÉZILDA
+@@ 3
+2179 LÉTOURNEUX</a></b></font>&nbsp;&nbsp;&nbsp;
+<font face="Times New Roman" size="2"><b><a href="descendance.HTM">THEIR
+DESCENDANTS</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="album_gilles.htm">GILLES'S&nbsp; ALBUM
+@@ 4
+FRANCINE'S PHOTOS OF
+THE PLACES</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="arbre_genealogique.htm">FAMILY
+TREES
+@@ 6
+François Sanfaçon dit&nbsp; Consigny
+@@ 8
+marriage
+@@ 10
+Marie-Louise Ducharme
+@@ 12
+Jean-Nicolas Sanfaçon
+@@ 14
+Marie Vaillancourt
+@@ 15
+Jean-Nicolas Sanfaçon dit Conscient
+@@ 17
+Josephte Thériault
+@@ 18
+Nicolas Sanfaçon dit Consigny
+@@ 20
+Basilisse Landry
+@@ 24
+Charles Consigny
+@@ 25
+Born: February 28, 1893<br>
+        Died: October 19, 1941
+@@ 27
+Ézilda Côté
+@@ 28
+Born:&nbsp; December 27, 1891<br>
+        Died: October 17, 1964
+@@ 29
+Jacqueline
+        Consigny
+@@ 30
+born: August 7, 1926<br>
+        died: May 3, 1986
+@@ 32
+Gérard
+        Charette
+@@ 33
+born: October 19, 1921<br>
+        died: June 25, 1996
+@@ 38
+Prisque Côté
+@@ 40
+Françoise Côté
+@@ 41
+Pierre Côté
+@@ 42
+Born circa 1833<br>
+        Died: February 19, 1889
+@@ 44
+Salomée Pleau
+@@ 45
+Born circa 1836<br>
+        Died: December 9, 1888
+@@ 46
+Gaudias
+        Côté
+@@ 47
+Born: April 12, 1863<br>
+        Died:&nbsp; May 14, 1918
+@@ 49
+Georgiana Pageau
+@@ 50
+Born: July 25, 1865<br>
+        Died: August 4, 1951
+@@ 51
+Ézilda Côté
+@@ 52
+Born:&nbsp; December 27, 1891<br>
+        Died: October 17, 1964
+@@ 54
+Charles
+        Consigny
+@@ 55
+Born: February 28, 1893<br>
+        Died: October 19, 1941
+@@ 56
+Gérard
+        Charette
+@@ 57
+born: October 19, 1921<br>
+        died: June 25, 1996
+@@ 59
+Jacqueline
+        Consigny
+@@ 60
+born: August 7, 1926<br>
+        died: May 3, 1986
+@@ 64
+Thomas Pageau
+@@ 65
+Born: August 28, 1642<br>
+        Died: March 14, 1706
+@@ 66
+marriage
+@@ 68
+Marie-Catherine Roy
+@@ 69
+Born: June 11, 1659<br>
+        Died: May 19, 1734
+@@ 70
+Jean-Baptiste Pageau
+@@ 71
+Born:&nbsp; May 2, 1682<br>
+        Died: February 4, 1708
+@@ 73
+Marie Paradis
+@@ 74
+Born: February 2, 1684<br>
+        Died: March 23, 1715
+@@ 75
+Thomas Pageau
+@@ 76
+Born: February 21, 1707<br>
+        Died: November 7, 1777
+@@ 78
+Marie-Madeleine Gervais
+@@ 80
+Jacques Pageau
+@@ 81
+Born: March 27, 1743<br>
+        Died: April 29, 1815
+@@ 83
+Marie-Françoise Bédard
+@@ 85
+Charles Pageau
+@@ 86
+Born: March 1770<br>
+        Died: April 2, 1819
+@@ 88
+Magdeleine Magnan
+@@ 90
+Jacques Germain Pageau
+@@ 91
+Born:April 11, 1800<br>
+        Died: January 14, 1882
+@@ 93
+Angélique Potvin dit Laviolette
+@@ 95
+Louis Georges Pageau
+@@ 96
+Born: May 5, 1827<br>
+        Died: April 19, 1911
+@@ 98
+Marie-Jacques
+        (Duhault)
+@@ 99
+Born: December 26, 1824<br>
+        Died: November 22, 1909
+@@ 100
+Marie-Georgianna Pageau
+@@ 101
+Born: July 25, 1865<br>
+        Died: August 4, 1951
+@@ 103
+Gaudias
+        Côté
+@@ 104
+Born: April 12, 1863<br>
+        Died:&nbsp; May 14, 1918
+@@ 105
+Charles
+        Consigny
+@@ 106
+Born: February 28, 1893<br>
+        Died: October 19, 1941
+@@ 108
+Ézilda
+        Côté
+@@ 109
+Born:&nbsp; December 27, 1891<br>
+        Died: October 17, 1964
+@@ 110
+Jacqueline
+        Consigny
+@@ 111
+born: August 7, 1926<br>
+        died: May 3, 1986
+@@ 113
+Gérard
+        Charette
+@@ 114
+born: October 19, 1921<br>
+        died: June 25, 1996
+@@ 126
+Antoine
+@@ 127
+Crescence
+@@ 130
+Eugène
+@@ 131
+Yvonne
+@@ 133
+Anna
+@@ 134
+Antoinette
+@@ 135
+Jeanne
+@@ 137
+THE CONSIGNYS</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="FAM_COTE.HTM">THE
+CÔTÉS</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="VIE.HTM"> CHARLES AND
+ÉZILDA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b><font face="Times New Roman" size="2"><b><a href="2179.HTM">2179 LÉTOURNEUX</a></b></font>&nbsp;&nbsp;&nbsp;
+<font face="Times New Roman" size="2"><b><a href="descendance.HTM">THEIR
+DESCENDANTS
+@@ 138
+GILLES'S&nbsp; ALBUM</a></font></b>&nbsp;&nbsp;&nbsp;&nbsp;
+<b><font face="Times New Roman" size="2"><a href="francine.htm">FRANCINE'S PHOTOS OF
+THE PLACES</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="arbre_genealogique.htm">FAMILY
+TREES
+@@ 139
+Site created on November 25, 2000, for 800 x 600.<br>
+Fully updated on October 4, 2008
+@@ 140
+YOU WILL FIND ALL THE OFFICIAL BAPTISM,
+MARRIAGE AND BURIAL RECORDS&nbsp;<br>
+FOR THE PEOPLE MENTIONED HERE IN THE&nbsp;<br>
+SITE&nbsp; <a href="../archives_zone/index.html" target="_blank">&quot;THE
+ZONECHARETTE ARCHIVES&quot;
+@@ 141
+©nicole.charette@zonecharette.ca

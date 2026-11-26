@@ -1,0 +1,45 @@
+@@ frtitle
+Les archives de la ZoneCharette — les Charette (ancienne version)
+@@ title
+The ZoneCharette archives — the Charettes (older version)
+@@ 8
+MATHIEU CHORET, SÉBASTIENNE VEILLON</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="../../charettegen1/accueil.htm" target="_blank">1st
+        generation
+@@ 27
+no original&nbsp;<br>
+      register found
+@@ 28
+S Aufroy <font size="2">18-11-1700 St-François I.O.&nbsp;<br>
+ still to be found
+@@ 29
+PIERRE LEJEUNE CHORET, MARIE-ANNE BEAUGIS</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="../../charettegen2/index.html" target="_blank">2nd
+        generation
+@@ 36
+PIERRE CHORET, ANGÉLIQUE TURCOT</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="../../charettegen3/index.html" target="_blank">3rd
+        generation
+@@ 48
+JOSEPH CHORET, MARIE-ANNE LEMAY</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a target="_blank" href="../../charettegen4/index.html">4th
+        generation
+@@ 57
+THE MYSTERY OF THE 4TH AND 5TH GENERATIONS:&nbsp;<br>
+        </b>Here are the facts known to date:<br>
+        Two Choret brothers, Pierre and Joseph, married two Lemay sisters.
+        Each couple had a child named Jean-Baptiste. Pierre's
+        apparently went by Louis. These two cousins married two
+        Lorain sisters.
+@@ 67
+JEAN-BAPTISTE CHORET, M.-JOSEPHTE LORAIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><a href="../../charettegen5/index.html" target="_blank">5th
+        generation
+@@ 69
+B M-Josephte&nbsp; Lorain&nbsp; <font size="2">(probably in Riv. des Prairies;
+      years are missing from the registers; not found to date)
+@@ 78
+JACQUES CHARETTE, M-A. MARGUERITE VARIN</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../../charettegen6/index.html" target="_blank">6th
+        generation
+@@ 83
+JACQUES CHARETTE, THÉOTISTE DUBOIS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><a href="../../charettegen7/index.html" target="_blank">7th
+        generation

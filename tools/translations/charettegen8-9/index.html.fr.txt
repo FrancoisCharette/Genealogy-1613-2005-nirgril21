@@ -1,0 +1,55 @@
+@@ title
+Page d'accueil
+@@ 1
+LES DEUX
+                ALPHONSE<br>
+                </font><font face="Garamond" size="6"> <br>
+                </font><font face="Garamond" size="4">OU<br>
+                </font><font face="Garamond" size="6">
+                &nbsp;TEL PÈRE, TEL FILS
+@@ 2
+On dirait le
+                titre d'une pièce de théâtre de Feydeau, pourtant rien n'est
+                plus juste que ce titre. Alphonse Charette, père et fils, se
+                ressemblent tellement qu'on dirait que chacun est le miroir de
+                l'autre. Leur vie est si intimement liée, même milieu, même
+                métier, même destin, qu'un seul site web
+                les réunit, eux qui sont la huitième et la neuvième
+                génération de Charette au Canada.
+@@ 3
+Venez
+                rencontrer </font><a href="alph1.htm"><font face="Garamond" size="4" color="#FFFF00"> Alphonse et
+                Rosianne</font></a><font face="Garamond" size="4" color="#FFFFFF">, puis leur fils
+                </font><a href="alph2.htm"><font face="Garamond" size="4" color="#FFFF00"> Alphonse, et
+                Marie</font></a><font face="Garamond" size="4" color="#FFFFFF">. <br>
+                Ils vivent rue Saint-Antoine, dans le quartier </font><a href="st-henri.htm"><font face="Garamond" size="4" color="#FFFF00">Saint-Henri
+@@ 4
+ACCUEIL</font></a><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;
+</font><a href="../zone/index.html" target="_blank"><font color="#FFFF00"> ZONECHARETTE</font></a><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;
+</font><a href="../charette/index.html" target="_blank"><font color="#FFFF00">
+LES 14 GÉNÉRATIONS</font></a><font color="#FFFFFF">&nbsp;&nbsp;&nbsp; </font><a href="../charette/sources.htm" target="_blank"><font color="#FFFF00"> SOURCES</font></a><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font><a href="../charette/plansite.htm" target="_blank"><font color="#FFFF00">
+PLAN DU SITE<br>
+<br>
+</font></a><a href="alph1.htm"><font color="#FFFF00">ALPHONSE ET ROSIANNE</font></a><font color="#FFFF00">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font><a href="alph2.htm"><font color="#FFFF00">
+ALPHONSE ET
+MARIE</font></a><font color="#FFFF00">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font><a href="st-henri.htm"><font color="#FFFF00">SAINT-HENRI-DES-TANNERIES
+@@ 5
+VOUS TROUVEREZ TOUS LES
+                ACTES OFFICIELS DE BAPTÊME, MARIAGE ET SÉPULTURE&nbsp;<br>
+ CONCERNANT
+                LES PERSONNES DONT IL EST FAIT MENTION ICI DANS LE&nbsp;<br>
+ SITE&nbsp;
+                &quot;</font><a href="../archives_zone/page2.htm" target="_blank"><font color="#FFFF00">LES
+                ARCHIVES DE LA ZONECHARETTE</font></a><font color="#FFFFFF">&quot;.&nbsp;<br>
+<br>
+POUR VOIR TOUTES LES PHOTOS,&nbsp; VOUS RÉFÉRER&nbsp;<br>
+À FRANCINE QUI A LES ALBUMS OU QUI PEUT VOUS REMETTRE UN CD.
+@@ 6
+Site créé
+le&nbsp;21 septembre 2007
+en 800x600<br>
+</font><b><a href="mailto:nicole.charette@zonecharette.ca"><font face="Times New Roman" size="3" color="#FFFF00">nicole.charette@zonecharette.ca</font></a><font color="#FFFFFF" face="Times New Roman" size="3"><br>
+Révision et corrections par&nbsp;Francine Charette

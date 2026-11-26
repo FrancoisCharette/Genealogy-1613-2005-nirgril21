@@ -1,0 +1,334 @@
+@@ 1
+THE ZONECHARETTE
+ARCHIVES
+@@ 2
+CIVIL AND PARISH REGISTERS
+@@ 3
+SOURCE: THE DIGITIZED DROUIN
+COLLECTION
+@@ 4
+PAGES
+@@ a1
+B_Consigny Charles.jpg (119149 bytes)
+@@ 6
+B Charles
+@@ a2
+B_Ezilda_Cote.jpg (85482 bytes)
+@@ 7
+B Ézilda
+@@ a3
+M_consigny-cote.jpg (156773 bytes)
+@@ 8
+M Consigny - Côté
+@@ a4
+B_Arsene3_Consigny.jpg (88514 bytes)
+@@ 9
+B Arsène
+@@ a5
+B_Fabiola_Consigny.jpg (79517 bytes)
+@@ 10
+B Fabiola
+@@ a6
+B_Jacqueline_Consigny.jpg (95429 bytes)
+@@ 11
+B Jacqueline
+@@ a7
+B_Jeanne Consigny.jpg (112620 bytes)
+@@ 12
+B Jeanne<br>
+        <a href="images/S_Jeanne_Consigny.jpg"><img border="0" src="images/S_Jeanne_Consigny_small.jpg" alt="S_Jeanne Consigny.jpg (82143 octets)" width="55" height="23"><br>
+        </a>S Jeanne
+@@ a9
+B_Aurise_Consigny.jpg (116504 bytes)
+@@ 13
+B Aurise<br>
+        <a href="images/S_Aurise_Consigny.jpg"><img border="0" src="images/S_Aurise_Consigny_small.jpg" alt="S_Aurise_Consigny.jpg (50252 octets)" width="51" height="21"><br>
+        </a>S Aurise
+@@ a11
+S_Charles_Consigny.jpg (78325 bytes)
+@@ 14
+S Charles
+@@ a12
+M_Daoust-Fournier.jpg (176718 bytes)
+@@ a13
+B_Arsene Consigny pere.jpg (120910 bytes)
+@@ 18
+B Arsène
+@@ a14
+B_Amanda Thibodeau.jpg (149688 bytes)
+@@ 19
+B Amanda
+@@ a15
+M_parents Charles.jpg (257931 bytes)
+@@ 20
+M Consigny - Thibaudeau
+@@ a16
+B_Crescence Consigny.jpg (115239 bytes)
+@@ 21
+B Crescence
+@@ a17
+B_Arsene Consigny.jpg (77795 bytes)
+@@ a19
+B_Anatole Consigny.jpg (132536 bytes)
+@@ 23
+B Anatole<br>
+        <a href="images/S_Anatole_Consigny.jpg"><img border="0" src="images/S_Anatole_Consigny_small.jpg" alt="S_Anatole Consigny.jpg (113206 octets)" width="78" height="27"><br>
+        </a>S Anatole
+@@ a21
+B_jumeaux Consigny.jpg (239401 bytes)
+@@ a23
+B_Philippe Consigny.jpg (139013 bytes)
+@@ 25
+B Philippe<br>
+        <a href="images/S_Philippe_Consigny.jpg"><img border="0" src="images/S_Philippe_Consigny_small.jpg" alt="S_Philippe Consigny.jpg (153163 octets)" width="62" height="30"><br>
+        </a>S Philippe
+@@ a25
+B_Lucienne Consigny.jpg (134493 bytes)
+@@ 26
+B Lucienne<br>
+        <a href="images/S_Lucienne_Consigny.jpg"><img border="0" src="images/S_Lucienne_Consigny_small.jpg" alt="S_Lucienne Consigny.jpg (105764 octets)" width="56" height="23"><br>
+        </a>S Lucienne
+@@ a27
+S_Arsene Consigny pere.jpg (232497 bytes)
+@@ a28
+B_Antoine Consigny.jpg (121055 bytes)
+@@ 28
+B Antoine
+@@ a29
+S_Amanda_Thibaudeau.jpg (229807 bytes)
+@@ a30
+M_Crescence_consigny.jpg (495097 bytes)
+@@ 30
+M Crescence
+@@ a31
+M_consigny-cote.jpg (156773 bytes)
+@@ 31
+M Charles
+@@ a32
+M_Antoine_Consigny.jpg (129647 bytes)
+@@ a34
+M_Thibodeau-Dulac.jpg (248478 bytes)
+@@ a35
+M_thibodeau-Plaut.jpg (300126 bytes)
+@@ a36
+M_Thibodeau-Deblois.jpg (193336 bytes)
+@@ a37
+B_Gaudias_Cote.jpg (99109 bytes)
+@@ 39
+B Gaudias
+@@ a38
+B_Georgianna_Pageau.jpg (75332 bytes)
+@@ 40
+B Georgianna
+@@ a39
+M_cote-pageau.jpg (228292 bytes)
+@@ 41
+M Côté - Pageau
+@@ a40
+B_Oliva_Cote.jpg (176104 bytes)
+@@ a41
+B_Laura_Cote.jpg (76324 bytes)
+@@ 43
+B Laura
+@@ a42
+B_Docilia_cote.jpg (109817 bytes)
+@@ 44
+B Docilia
+@@ a43
+B_Ezilda_Cote.jpg (85482 bytes)
+@@ 45
+B Ézilda <font size="1"> (Éxilda)
+@@ a44
+B_Blanche1_Cote.jpg (120205 bytes)
+@@ 46
+B Blanche<br>
+        <a href="images/S_Blanche1_Cote.jpg"><img border="0" src="images/S_Blanche1_Cote_small.jpg" alt="S_Blanche1_Cote.jpg (130343 octets)" width="54" height="21"><br>
+        </a>S Blanche
+@@ a46
+B_Blanche2_Cote.jpg (142078 bytes)
+@@ 47
+B Blanche
+@@ a47
+B_Albertine_Cote.jpg (167045 bytes)
+@@ 48
+B Albertine<br>
+        <a href="images/S_Albertine_cote.jpg"><img border="0" src="images/S_Albertine_cote_small.jpg" alt="S_Albertine_cote.jpg (170302 octets)" width="44" height="24"><br>
+        </a>S Albertine
+@@ a49
+B_Wilfrid_cote.jpg (169957 bytes)
+@@ 49
+B Wilfrid<br>
+        <a href="images/S_Wilfrid_cote.jpg"><img border="0" src="images/S_Wilfrid_cote_small.jpg" alt="S_Wilfrid_cote.jpg (130755 octets)" width="41" height="26"><br>
+        </a>S Wilfrid
+@@ a51
+B_Alfred_cote.jpg (129116 bytes)
+@@ 50
+B Alfred<br>
+        <a href="images/S_Alfred_Cote.jpg"><img border="0" src="images/S_Alfred_Cote_small.jpg" alt="S_Alfred_Cote.jpg (90559 octets)" width="51" height="24"><br>
+        </a>S Alfred
+@@ a53
+B_Evangeline_cote.jpg (81287 bytes)
+@@ 51
+B Évangéline
+@@ a54
+B_Xavier_cote.jpg (109728 bytes)
+@@ a56
+B_Azarias_Cote.jpg (78982 bytes)
+@@ 53
+B Azarias
+@@ a57
+B_Anne_Cote.jpg (92066 bytes)
+@@ a58
+B_Emilien_cote.jpg (60714 bytes)
+@@ 55
+B Émilien
+@@ a59
+S_Gaudias_corr.jpg (112252 bytes)
+@@ 56
+S Gaudias.
+@@ a60
+c_mor_geor.jpg (28357 bytes)
+@@ a61
+M_Laura Cote.jpg (178830 bytes)
+@@ 60
+M Laura
+@@ a62
+M_Eva_Cote.jpg (165300 bytes)
+@@ 61
+M Éva
+@@ a63
+M_Docilia_Cote.jpg (157245 bytes)
+@@ a64
+M_consigny-cote.jpg (156773 bytes)
+@@ 63
+M Ézilda
+@@ a65
+M_Blanche_Cote.jpg (216596 bytes)
+@@ 64
+M Blanche
+@@ a66
+M_Cote_Dauphin.jpg (218798 bytes)
+@@ 65
+M Émilien
+@@ a67
+M_Cote-Pleau.jpg (205875 bytes)
+@@ 70
+M Côté - Pleau
+@@ a68
+B_Gaudina_cote.jpg (128802 bytes)
+@@ a70
+B_Laure_cote.jpg (94351 bytes)
+@@ a72
+B_Alfred2_cote.jpg (120152 bytes)
+@@ 73
+B Alfred&nbsp;<br>
+        <a href="images/S_Alfred2_cote.jpg"><img border="0" src="images/S_Alfred2_cote_small.jpg" alt="S_Alfred2_cote.jpg (95221 octets)" width="84" height="28"><br>
+        </a>S Alfred
+@@ a74
+B_Gaudias_Cote.jpg (99109 bytes)
+@@ 74
+B Gaudias
+@@ a75
+B_Zilia_cote.jpg (71942 bytes)
+@@ 75
+B Zilia<br>
+        <a href="images/S_Zilia_cote.jpg"><img border="0" src="images/S_Zilia_cote_small.jpg" alt="S_Zilia_cote.jpg (77472 octets)" width="98" height="29"><br>
+        </a>S Zilia
+@@ a77
+B_Victoria_cote.jpg (111443 bytes)
+@@ 76
+B Victoria<br>
+        <a href="images/S_Victoria_cote.jpg"><img border="0" src="images/S_Victoria_cote_small.jpg" alt="S_Victoria_cote.jpg (94249 octets)" width="124" height="35"><br>
+        </a>S Victoria
+@@ a79
+B_anonyme_P.cote.jpg (90458 bytes)
+@@ a80
+S_Salomee_PLeau.jpg (100905 bytes)
+@@ 79
+S Salomé Pleau
+@@ a81
+S_Pierre_Cote.jpg (104746 bytes)
+@@ 80
+S Pierre Côté
+@@ a82
+M_Pleau_Pleau.jpg (283250 bytes)
+@@ a83
+B_Nico_Consigny.jpg (124840 bytes)
+@@ 83
+B Nicolas
+@@ a84
+B_Basilisse Landry.jpg (92365 bytes)
+@@ 84
+B Basilice
+@@ a85
+M_consigny_landry.jpg (189206 bytes)
+@@ 85
+M Consigny-Landry
+@@ a86
+B_Basilice_Consigny.jpg (128582 bytes)
+@@ 86
+B Basilice<br>
+        <a href="images/S_Basilice_Consigny.jpg"><img border="0" src="images/S_Basilice_Consigny_small.jpg" alt="S_Basilice_Consigny.jpg (106004 octets)" width="58" height="27"><br>
+        </a>S Basilice
+@@ a88
+B_Nic_Consigny.jpg (97631 bytes)
+@@ a89
+S_Arsene5_consigny.jpg (159060 bytes)
+@@ 90
+S Arsène
+@@ a90
+B_Rose Consigny.jpg (131293 bytes)
+@@ a92
+B_Fr-Xa Consigny.jpg (125367 bytes)
+@@ 92
+B François-Xavier
+@@ a93
+S_J.B._fils nicolas cons.jpg (111643 bytes)
+@@ 94
+S Jean-Baptiste
+@@ a94
+B_Elma_consigny.jpg (111253 bytes)
+@@ 95
+B Elma<br>
+        <a href="images/S_Elma_consigny.jpg"><img border="0" src="images/S_Elma_consigny_small.jpg" alt="S_Elma_consigny.jpg (104332 octets)" width="55" height="26"><br>
+        </a>S Elma
+@@ a96
+B_Emilie_consigny.jpg (92576 bytes)
+@@ 96
+B Émilie<br>
+        <a href="images/S_Emilie_Consigny.jpg"><img border="0" src="images/S_Emilie_Consigny_small.jpg" alt="S_Emilie Consigny.jpg (97199 octets)" width="50" height="23"><br>
+        </a>S Émilie
+@@ a98
+B_Anne_consigni.jpg (157622 bytes)
+@@ 97
+B Anne
+@@ a99
+B_Arsene_Consigny_pere.jpg (120910 bytes)
+@@ 98
+B Arsène
+@@ a100
+M_Consigny-Dion.jpg (238479 bytes)
+@@ a102
+M_oncle Charles.jpg (201367 bytes)
+@@ 101
+M </font> François-Xavier
+@@ a103
+M_parents_Charles.jpg (257931 bytes)
+@@ 102
+M Arsène
+@@ a104
+M_Dion-Consigny.jpg (275044 bytes)
+@@ 103
+M Anne
+@@ a105
+S_Nico_Consigny.jpg (173003 bytes)
+@@ 104
+S Nicolas
+@@ a106
+S_Basilice Landry.jpg (161581 bytes)
+@@ a107
+M_Landry_Levesque.jpg (305990 bytes)
+@@ a108
+M_Landry-Levasseur.jpg (148086 bytes)
+@@ 109
+PAGES

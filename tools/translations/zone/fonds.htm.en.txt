@@ -1,0 +1,35 @@
+@@ frtitle
+ZoneCharette — fonds d'écran
+@@ title
+ZoneCharette — desktop wallpapers
+@@ 1
+To mark
+                an event, a theme, some people, or simply&nbsp;<br>
+a lovely picture, here is a set of desktop wallpapers </font><font face="Arial" size="1">(at
+800 x 600)
+@@ 4
+Under a
+                blue sky<br>
+                <font size="1">(Gérard Charette)
+@@ 5
+Photo booth<br>
+                <font size="1">(Jacqueline Consigny)
+@@ 6
+The patriarchs of St-Henri
+@@ 7
+Alphonsine and Arthur
+@@ 8
+Alphonse and Marie
+@@ 9
+Rosario and Marie-Anna
+@@ 11
+TO BE CONTINUED...
+@@ 12
+Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="intro.htm">Sections</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="fonds.htm">Desktop
+wallpapers
+@@ 13
+Site created on September 3, 2002<br>
+                Last updated in January 2010
+@@ 14
+nicole.charette@zonecharette.ca

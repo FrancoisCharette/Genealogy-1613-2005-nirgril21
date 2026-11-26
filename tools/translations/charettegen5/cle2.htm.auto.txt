@@ -1,0 +1,33 @@
+@@ 4
+TROIS PAYS
+      DISTINCTS
+@@ 10
+MONNAIE
+@@ 14
+COMMERCE
+@@ 17
+JUSTICE
+@@ 23
+POSTE
+@@ 25
+MESURES
+@@ 30
+RELIGION
+@@ a1
+page1.jpg (124553 bytes)
+@@ a2
+page9.jpg (172128 bytes)
+@@ a3
+page10.jpg (177499 bytes)
+@@ a4
+page11.jpg (170643 bytes)
+@@ a5
+page12.jpg (173573 bytes)
+@@ 55
+Terre-Neuve&nbsp;;
+@@ 60
+Prisonniers&nbsp;:
+@@ 62
+Religion&nbsp;:
+@@ 82
+Close this window

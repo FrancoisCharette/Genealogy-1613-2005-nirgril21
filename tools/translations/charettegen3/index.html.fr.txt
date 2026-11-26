@@ -1,0 +1,64 @@
+@@ title
+Page d'accueil
+@@ 1
+P</font>ierre est le
+        petit-fils de Mathieu Choret et Sébastienne Veillon, les premiers
+        ancêtres installés en Nouvelle-France en 1647.
+@@ 2
+V</font>enez faire la
+        connaissance de Pierre et de son époque.&nbsp; Il vit durant la
+        première moitié du 18ème siècle, voici ce que l'on sait de <a href="enfance.htm">son
+        enfance</a>, de <a href="vie.htm">sa vie</a> et de <a href="descendance.htm">sa
+        descendance
+@@ 3
+F</font>ait marquant dans
+        l'histoire de la lign<font size="3">é</font>e des Charette, Pierre est
+        celui qui quitte la région de Québec et vient s'installer sur l'île
+        de Montréal.
+@@ 4
+D</font>e 1689 à 1748, soit durant toute la vie de Pierre,
+      la France et l'Angleterre vont se faire trois fois la guerre en Europe,
+      mais aussi dans leurs colonies d'Amérique du Nord.
+@@ 5
+M</font>ontréal, après des
+      débuts difficiles, devient au 18ème siècle le pôle économique de la
+      colonie.&nbsp; Pierre Choret vient s'y installer avec sa famille vers
+      1720.
+@@ 6
+L</font>e foyer, le four à pain,
+      puis le poêle, ce sont tous des outils qui ont permis aux colons de se
+      nourrir et de se chauffer.&nbsp;&nbsp; Et même, dans le cas du four à
+      pain, d'acquérir une certaine indépendance.....&nbsp;&nbsp;&nbsp; Des
+      recettes en prime!!
+@@ 7
+l
+@@ 8
+Accueil
+du site de Pierre Choret</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="enfance.htm">Son
+enfance</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="vie.htm">Sa
+vie</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="descendance.htm">Sa
+descendance
+@@ 9
+Les guerres intercoloniales</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="cle2.htm" target="_blank">Montréal,
+ville importante</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="cle3.htm" target="_blank">Se
+nourrir en Nouvelle-France
+@@ 10
+zonecharette.ca</a>&nbsp;&nbsp;
+          <a target="_blank" href="../charette/index.html">Le
+parchemin des 14 générations&nbsp;</a>&nbsp;&nbsp; <a href="../charette/sources.htm" target="_blank">Sources</a>&nbsp;&nbsp;
+&nbsp; <a target="_blank" href="../charette/plansite.htm">Plan
+du site
+@@ 11
+VOUS TROUVEREZ TOUS LES ACTES
+          OFFICIELS DE BAPTÊME, MARIAGE ET SÉPULTURE&nbsp;<br>
+          CONCERNANT LES PERSONNES DONT IL EST FAIT MENTION ICI DANS LE&nbsp;<br>
+          SITE&nbsp;<a target="_blank" href="../archives_zone/index.html">
+          &quot;LES
+          ARCHIVES DE LA ZONECHARETTE&quot;
+@@ 12
+Site créé le&nbsp;29 août 2004&nbsp;en 800 x 600<br>
+          Dernière mise à jour le 21 septembre 2007<br>
+          <a href="mailto:800X600nicole.charette@zonecharette.ca"><br>
+          nicole.charette@zonecharette.ca</a><br>
+          Révision et corrections par Francine Charette

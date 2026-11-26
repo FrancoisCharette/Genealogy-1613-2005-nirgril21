@@ -1,0 +1,38 @@
+@@ a1
+Rosario.jpg (463552 bytes)
+@@ a2
+mar_arthur.jpg (86607 bytes)
+@@ a3
+ma1.jpg (107297 bytes)
+@@ a4
+ma2.jpg (65909 bytes)
+@@ a5
+ma3.jpg (72868 bytes)
+@@ 7
+Marie-Anna
+@@ a6
+Rosario1.jpg (18232 bytes)
+@@ 8
+Rosario
+@@ a7
+ma5.jpg (84678 bytes)
+@@ 9
+Marie-Anna
+@@ a8
+fam1.jpg (92474 bytes)
+@@ a9
+famille5.jpg (56841 bytes)
+@@ a10
+carte_m-a6.jpg (135475 bytes)
+@@ a11
+carte_m-a2.jpg (86077 bytes)
+@@ a12
+carte_m-a5.jpg (128820 bytes)
+@@ a13
+carte_m-a3.jpg (121771 bytes)
+@@ a14
+carte_m-a4.jpg (120411 bytes)
+@@ a15
+carte_m-a1.jpg (132276 bytes)
+@@ 25
+Imelda Verreault-Philippe, 1990

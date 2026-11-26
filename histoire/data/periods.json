@@ -1,0 +1,122 @@
+[
+ {
+  "id": "1613-1700",
+  "range": {
+   "fr": "vers 1613–1700",
+   "en": "c. 1613–1700"
+  },
+  "title": {
+   "fr": "Les débuts en Nouvelle-France",
+   "en": "Beginnings in New France"
+  },
+  "status": "ready",
+  "sites": [
+   "charettegen1",
+   "charettegen2",
+   "caron",
+   "zone",
+   "page-mathieu"
+  ],
+  "intro": {
+   "fr": "Robert Caron arrive à Québec en 1634; Mathieu Choret, le premier Charette, s'établit près de Beauport en 1647 avec Sébastienne Veillon. Premières terres, premiers mariages, premières alertes de guerre.",
+   "en": "Robert Caron arrives in Québec in 1634; Mathieu Choret, the first Charette, settles near Beauport in 1647 with Sébastienne Veillon. First land, first weddings, first threats of war."
+  }
+ },
+ {
+  "id": "1700-1800",
+  "range": {
+   "fr": "1700–1800",
+   "en": "1700–1800"
+  },
+  "title": {
+   "fr": "Le XVIIIe siècle",
+   "en": "The 18th century"
+  },
+  "status": "ready",
+  "sites": [
+   "charettegen3",
+   "charettegen4",
+   "charettegen5",
+   "consigny_2"
+  ],
+  "intro": {
+   "fr": "Pierre Choret quitte Beauport pour l'île de Montréal; ses fils épousent deux sœurs Lemay au Sault-au-Récollet. En 1759, la Conquête fait de la colonie une possession britannique.",
+   "en": "Pierre Choret leaves Beauport for the island of Montreal; his sons marry two Lemay sisters at Sault-au-Récollet. In 1759 the Conquest makes the colony a British possession."
+  }
+ },
+ {
+  "id": "1800-1890",
+  "range": {
+   "fr": "1800–1890",
+   "en": "1800–1890"
+  },
+  "title": {
+   "fr": "Le XIXe siècle",
+   "en": "The 19th century"
+  },
+  "status": "ready",
+  "sites": [
+   "charettegen6",
+   "charettegen7",
+   "charettegen8-9",
+   "caron",
+   "consigny_2",
+   "archives_zone"
+  ],
+  "intro": {
+   "fr": "De Saint-Laurent à Saint-Jérôme puis à Saint-Henri : la guerre de 1812, les rébellions de 1837-1838 et l'arrivée de la famille rue Saint-Antoine. Pendant ce temps, les Côté, Pageau, Consigny, Gagnon et Dionne se marient à Québec et dans le Bas-du-Fleuve.",
+   "en": "From Saint-Laurent to Saint-Jérôme, then Saint-Henri: the War of 1812, the rebellions of 1837–1838 and the family's arrival on rue Saint-Antoine. Meanwhile the Côtés, Pageaus, Consignys, Gagnons and Dionnes marry in Québec City and the lower St. Lawrence."
+  }
+ },
+ {
+  "id": "1890-1950",
+  "range": {
+   "fr": "1890–1950",
+   "en": "1890–1950"
+  },
+  "title": {
+   "fr": "Deux familles, deux guerres",
+   "en": "Two families, two wars"
+  },
+  "status": "ready",
+  "sites": [
+   "2vies",
+   "charettegen8-9",
+   "charettegen10",
+   "charettegen11",
+   "caron",
+   "consigny_2",
+   "guerre-charles",
+   "communion",
+   "reposoir2"
+  ],
+  "intro": {
+   "fr": "Les familles Charette, Caron, Côté et Consigny, de Saint-Henri à Maisonneuve : deux guerres, deux mariages en 1917 et 1919, et un troisième, en 1946, qui les réunit.",
+   "en": "The Charette, Caron, Côté and Consigny families, from Saint-Henri to Maisonneuve: two wars, two weddings in 1917 and 1919, and a third, in 1946, that brings them together."
+  }
+ },
+ {
+  "id": "1950-2005",
+  "range": {
+   "fr": "1950–2005",
+   "en": "1950–2005"
+  },
+  "title": {
+   "fr": "L'après-guerre",
+   "en": "The post-war years"
+  },
+  "status": "ready",
+  "sites": [
+   "charettegen10",
+   "charettegen11",
+   "caron",
+   "charette",
+   "consigny_2",
+   "zone"
+  ],
+  "intro": {
+   "fr": "Les dernières années de Marie-Anna et d'Ézilda, la famille de Gérard et Jacqueline, puis les sites web de Nicole. Par respect pour la vie privée, les générations récentes ne sont qu'évoquées.",
+   "en": "The last years of Marie-Anna and Ézilda, Gérard and Jacqueline's family, then Nicole's websites. Out of respect for privacy, the recent generations are only mentioned in passing."
+  }
+ }
+]

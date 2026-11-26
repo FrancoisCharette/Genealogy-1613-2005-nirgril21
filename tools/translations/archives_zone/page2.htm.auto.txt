@@ -1,0 +1,304 @@
+@@ 1
+THE ZONECHARETTE
+ARCHIVES
+@@ 2
+CIVIL AND PARISH REGISTERS
+@@ 3
+SOURCE: THE DIGITIZED DROUIN
+COLLECTION
+@@ 4
+PAGES
+@@ a1
+B_Alph sr Choret.jpg (89678 bytes)
+@@ a2
+B_Rosianne Miron.jpg (85070 bytes)
+@@ a3
+M_Charette-Miron.jpg (169706 bytes)
+@@ 8
+M Charette - Miron
+@@ a4
+B_Alph jr Charette.jpg (83098 bytes)
+@@ a5
+B_Louis Charette.jpg (77087 bytes)
+@@ a7
+B_Rose Anna Charette.jpg (89065 bytes)
+@@ a8
+B_Philomene Charette.jpg (108043 bytes)
+@@ a10
+B_Alexina Charette.jpg (87587 bytes)
+@@ a11
+B_Emile-Ludger_Charette.jpg (94155 bytes)
+@@ a13
+B_Jos-Arthur_Charette.jpg (124759 bytes)
+@@ a14
+B_Hector_Charette.jpg (124905 bytes)
+@@ a15
+B_Ernest_Charette.jpg (117749 bytes)
+@@ a16
+B_Lumina_Charette.jpg (104997 bytes)
+@@ a17
+B_Mary_Charette.jpg (114562 bytes)
+@@ a18
+B_Aldéric_Charette.jpg (95518 bytes)
+@@ a19
+B_Ida Charette.jpg (107121 bytes)
+@@ a20
+S_Alph_sr_Charette.jpg (93426 bytes)
+@@ a21
+S_Rosianne Miron.jpg (62086 bytes)
+@@ a22
+M_Alphonse fils Charrette.jpg (146657 bytes)
+@@ a23
+M_lavoie_charette.jpg (191515 bytes)
+@@ 26
+M Lavoie-Charette<br>
+        <font size="1">
+        (Rose Anna)
+@@ a24
+M_Prieur_Charette.jpg (190800 bytes)
+@@ 27
+M Prieur-Charette<br>
+        <font size="1">
+        (Mary)
+@@ a25
+M_latulippe_charette.jpg (221042 bytes)
+@@ 28
+M Latulippe-Charette<br>
+        <font size="1">
+        (Alexina)
+@@ a26
+M_Charette_Cromp.jpg (178811 bytes)
+@@ 29
+M Charette-Cromp<br>
+        <font size="1">(Oscar)
+@@ a27
+M_Charette-Prieur.jpg (110583 bytes)
+@@ 30
+M Charette-Prieur<br>
+        <font size="1">
+        (Joseph-Arthur)
+@@ a28
+M_Charette_Guay.jpg (137580 bytes)
+@@ 31
+M Charette-Guay<br>
+        <font size="1">
+        (Ernest)
+@@ a29
+M_Charette_Houle.jpg (182228 bytes)
+@@ 32
+M Charette-Houle<br>
+        <font size="1">
+        (Aldéric)
+@@ a30
+M_Palardy_Charette.jpg (119748 bytes)
+@@ 33
+M Palardy-Charette<font size="1"><br>
+        (Lumina)
+@@ a31
+B_Alph jr Charette.jpg (83098 bytes)
+@@ a32
+B_Marie Lavoie.jpg (77554 bytes)
+@@ 36
+B Marie Lavoie
+@@ a33
+M_Alphonse fils Charrette.jpg (146657 bytes)
+@@ 37
+M Charette - Lavoie
+@@ a34
+S_fille_alph jr.jpg (68601 bytes)
+@@ a35
+B_Emile_2charette.jpg (73076 bytes)
+@@ 39
+B Émile<br>
+        <a href="images/S_Emile_Charette.jpg"><img border="0" src="images/S_Emile_Charette_small.jpg" alt="S_Emile_Charette.jpg (71280 octets)" width="67" height="29"><br>
+        </a>S Émile
+@@ a37
+B_Rosario Charette.jpg (91369 bytes)
+@@ 40
+B Rosario
+@@ a38
+B_Argentine_Charette.jpg (85661 bytes)
+@@ 41
+B Argentine<br>
+        <a href="images/S_Argentine_charette.jpg"><img border="0" src="images/S_Argentine_charette_small.jpg" alt="S_Argentine_charette.jpg (67986 octets)" width="52" height="36"><br>
+        </a>S Argentine
+@@ a40
+B_Alma_Charette.jpg (55846 bytes)
+@@ a41
+B_Alex_jr.jpg (104424 bytes)
+@@ a43
+B_rene_fils_Alph_jr.jpg (78648 bytes)
+@@ 44
+B René<br>
+        <a href="images/S_Rene_fils_alph2.jpg"><img border="0" src="images/S_Rene_fils_alph2_small.jpg" alt="S_Rene fils alph2.jpg (107911 octets)" width="67" height="28"><br>
+        </a>S René
+@@ a45
+B_Real_Charette.jpg (86126 bytes)
+@@ 45
+B Réal<br>
+        <a href="images/S_Real_Charette.jpg"><img border="0" src="images/S_Real_Charette_small.jpg" alt="S_Real_Charette.jpg (88439 octets)" width="58" height="42"><br>
+        </a>S Réal
+@@ a47
+B_Anatole_Charette.jpg (104690 bytes)
+@@ a48
+S_Marie_Lavoie.jpg (79195 bytes)
+@@ a49
+S_Alph_jr_Charette.jpg (55882 bytes)
+@@ 50
+Émile<br>
+        Argentine<br>
+        Alma<br>
+        René<br>
+        Réal<br>
+        Anatole
+@@ a50
+B_Alderic_O_Lavoie.jpg (76405 bytes)
+@@ 52
+B Aldéric Lavoie
+@@ a51
+B_Rose Anna Charette.jpg (89065 bytes)
+@@ 53
+B Rose Anna&nbsp;Charette
+@@ a52
+M_lavoie_charette.jpg (191515 bytes)
+@@ 54
+M Lavoie-Charette
+@@ a53
+S_Alderic_Lavoie.jpg (49578 bytes)
+@@ 55
+S Aldéric Lavoie
+@@ a54
+S_Roseanna_Lavoie.jpg (82234 bytes)
+@@ 56
+S Rose-Anna Charette-Lavoie
+@@ a55
+M_Lavoie_Lortie.jpg (181549 bytes)
+@@ a56
+S_Olivier lavoie.jpg (59470 bytes)
+@@ a57
+S_Anastasie Lortie.jpg (72457 bytes)
+@@ a58
+B_Rosario Charette.jpg (91369 bytes)
+@@ 61
+B Rosario
+@@ a59
+B_Marie-Anna Caron.jpg (74362 bytes)
+@@ 62
+B Marie-Anna
+@@ a60
+M_Charette-Caron.jpg (142882 bytes)
+@@ 63
+M Charette-Caron
+@@ a61
+B_Therese Charette.jpg (87034 bytes)
+@@ 64
+B Thérése
+@@ a62
+B_Jos-Benoit Charette.jpg (84311 bytes)
+@@ 66
+B Jos-Benoit
+@@ a63
+B_Gerard Charette.jpg (57637 bytes)
+@@ 68
+B Gérard
+@@ a64
+B_Rosaire Charette.jpg (70655 bytes)
+@@ 70
+B Rosaire
+@@ a65
+B_Jean-Noël Charette.jpg (70252 bytes)
+@@ 71
+B Jean-Noël
+@@ a66
+B_Ghislaine Charette.jpg (81352 bytes)
+@@ 72
+B Ghislaine
+@@ a67
+S_Rosario Charette.jpg (100781 bytes)
+@@ a68
+B_Arthur_Caron.jpg (65309 bytes)
+@@ 76
+B Arthur
+@@ a69
+B_Alphonsine_Gagnon.jpg (117206 bytes)
+@@ 77
+B Alphonsine
+@@ a70
+M_Caron-Gagnon.jpg (213566 bytes)
+@@ 78
+M Caron - Gagnon
+@@ a71
+B_Jean_Caron.jpg (82024 bytes)
+@@ 79
+B Jean (Joseph)
+@@ a72
+B_Marie-Anna Caron.jpg (74362 bytes)
+@@ 81
+B Marie-Anna
+@@ a73
+B_Antonio Caron 1898.jpg (89092 bytes)
+@@ a74
+B_Arthur_caron_fils.jpg (108577 bytes)
+@@ a76
+S_Arthur Caron.jpg (104029 bytes)
+@@ 86
+S Arthur Caron
+@@ a77
+M_Laframboise-Gagnon.jpg (171656 bytes)
+@@ a78
+S_Alphonsine_Gagnon.jpg (80383 bytes)
+@@ 88
+S Alphonsine
+@@ a79
+M_Charette-Caron.jpg (142882 bytes)
+@@ 90
+M Charette-Caron
+@@ a80
+M_Caron_Villemaire.jpg (169237 bytes)
+@@ 91
+M Caron-Villemaire
+@@ a82
+M_Gagnon_Dionne.jpg (362980 bytes)
+@@ a83
+M_Caron-Anctil.jpg (135901 bytes)
+@@ a84
+B_Jos_Caron.jpg (42142 bytes)
+@@ a85
+S_Joseph Caron ep anctil.jpg (81062 bytes)
+@@ 97
+S Joseph Caron
+@@ a86
+B_Gen_Anctil.jpg (67228 bytes)
+@@ a88
+M_Caron_Fournier.jpg (196543 bytes)
+@@ a89
+M_Avoine_Anctil.jpg (157113 bytes)
+@@ a90
+B_Clara_Caron.jpg (91765 bytes)
+@@ a93
+M_J.B. Caron.jpg (146041 bytes)
+@@ 103
+M Caron-Côté<br>
+        <br>
+        <a href="images/S_jean_caron_fr_arthur_1937.jpg"><img border="0" src="images/S_jean_caron_fr_arthur_1937_small.jpg" alt="S_jean caron fr arthur 1937.jpg (50220 octets)" width="100" height="42"><br>
+        </a>S Jean Caron
+@@ a95
+S_Jos Caron gr_pere arthur 1858.jpg (73352 bytes)
+@@ a96
+B_Celine Charette.jpg (203519 bytes)
+@@ 106
+B Céline
+@@ a97
+B_Martin Charette.jpg (217647 bytes)
+@@ 107
+B Martin
+@@ a98
+B_Denis Charettte.jpg (196403 bytes)
+@@ 108
+B Denis
+@@ a99
+B_Francois Charettte.jpg (138220 bytes)
+@@ 109
+B François
+@@ 110
+PAGES

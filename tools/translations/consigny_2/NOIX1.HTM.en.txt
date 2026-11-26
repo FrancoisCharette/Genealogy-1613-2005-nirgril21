@@ -1,0 +1,24 @@
+@@ frtitle
+Carte de l'Île-aux-Noix
+@@ title
+A postcard from Île-aux-Noix
+@@ 1
+September 5, 1940
+@@ 4
+September 5,
+1940
+@@ 5
+My dear little wife,<span style="mso-spacerun: yes">&nbsp;
+</span>I'm sending you this card as a souvenir of Île-aux-Noix.
+@@ 6
+I am well, I will write to you tomorrow,<span style="mso-spacerun:
+yes">&nbsp;</span>from your husband Charles
+@@ 2
+Ma chère petite
+femme Je tenvoix c’est carte comme souvenire de l’isl<span style="mso-spacerun:
+yes">&nbsp; </span>aux
+@@ 3
+Noix<span style="mso-spacerun: yes">&nbsp;&nbsp;
+</span>je suis bien<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>je
+tecriraie Demain<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>de ton homme<span style="mso-spacerun: yes">&nbsp;
+</span>Charles

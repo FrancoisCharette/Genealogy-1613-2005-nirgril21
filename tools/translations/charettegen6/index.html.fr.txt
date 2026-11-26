@@ -1,0 +1,54 @@
+@@ title
+Page d'accueil
+@@ 1
+Jacques vit dans plusieurs villages de l'île de
+                      Montréal, dont<br>
+                      &nbsp;Saint-Laurent, Pierrefonds, Pointe-Claire.&nbsp;<br>
+                      Ne connaissant pas son métier, nous ignorons pourquoi il
+                      a ainsi la bougeotte.&nbsp;Mais nous tentons d'en savoir plus sur&nbsp; <a href="vie.htm"><br>
+                      sa
+                      vie et son époque</a> et <a href="descendance.htm">sa
+                      descendance
+@@ 2
+À quoi ressemblait l'île
+              de Montréal à l'époque de Jacques? Après la Grande Paix de
+              1701, on peut s'intéresser au développement de Montréal...</font><font face="Times New Roman" size="3">
+              <a href="cle1.htm" target="_blank">pour en savoir plus
+              &gt;&gt;&gt;
+@@ 3
+La Conquête est la
+              première révolution qu'ont connu les Canadiens, leur vie fut
+              bouleversée, souvent à leur avantage. Une génération s'écoule:
+              survient alors une deuxième révolution, celle de 1791... </font><font face="Times New Roman"><a href="cle2.htm" target="_blank"><font face="Times New Roman" size="3">pour
+              en savoir plus &gt;&gt;&gt;
+@@ 4
+Le vent des Lumières
+              souffle aussi au Canada, mais il vient d'Angleterre...</font> <a href="cle3.htm" target="_blank"><font face="Times New Roman" size="3">pour
+              en savoir plus &gt;&gt;&gt;
+@@ 5
+ZoneCharette</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../charette/index.html" target="_blank">
+Les 14 générations</a>&nbsp;&nbsp; <a target="_blank" href="../charette/sources.htm"> Sources</a>&nbsp;&nbsp;
+<a target="_blank" href="../charette/plansite.htm"> Plan du site
+@@ 6
+Accueil du site de Jacques</a>&nbsp;&nbsp; <a href="vie.htm">Sa vie et son
+époque</a>&nbsp; <a href="descendance.htm">Sa descendance</a>&nbsp;&nbsp;<br>
+&nbsp;
+<a href="cle1.htm" target="_blank">Montréal à l'époque de Jacques</a>&nbsp;&nbsp;
+<a href="cle2.htm" target="_blank">La
+2ème révolution</a>&nbsp;&nbsp; <a href="cle3.htm" target="_blank">Le vent des Lumières
+@@ 7
+VOUS TROUVEREZ TOUS LES ACTES OFFICIELS DE
+BAPTÊME, MARIAGE ET SÉPULTURE &nbsp;<br>
+&nbsp;
+CONCERNANT LES PERSONNES DONT IL EST FAIT MENTION ICI DANS LE&nbsp;</font></b></span>&nbsp;<span style="background-color: #FFFFFF"><b><font size="2">&nbsp;<br>
+&nbsp;
+SITE&nbsp; <a href="../archives_zone/index.html" target="_blank">&quot;LES
+ARCHIVES DE LA ZONECHARETTE&quot;
+@@ 8
+Site créé le 12
+août 2006 , </font><font face="Times New Roman" size="2"> en 800 x 600<br>
+Dernière mise à jour le 21 septembre 2007
+@@ 9
+nicole.charette@zonecharette.ca</a><br>
+Révision et corrections par&nbsp;Francine Charette

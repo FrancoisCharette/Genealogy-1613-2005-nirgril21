@@ -1,0 +1,2602 @@
+[
+ {
+  "id": "marie-anna-caron",
+  "name": "Marie-Anna Caron",
+  "years": "1897–1966",
+  "portrait": {
+   "src": "charettegen10/images/ma3.jpg",
+   "caption": {
+    "fr": "Marie-Anna",
+    "en": "Marie-Anna"
+   }
+  },
+  "summary": {
+   "fr": "Née à Saint-Henri, fille d'Arthur Caron, ferblantier, et d'Alphonsine Gagnon. Épouse de Rosario Charette, mère de sept enfants.",
+   "en": "Born in Saint-Henri, daughter of Arthur Caron, a tinsmith, and Alphonsine Gagnon. Wife of Rosario Charette, mother of seven children."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "27 avril 1897, 54 rue Delinelle, Saint-Henri (Montréal)",
+     "en": "April 27, 1897, 54 rue Delinelle, Saint-Henri (Montréal)"
+    },
+    "sources": [
+     "charettegen10/enfance.htm",
+     "2vies/index.html"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Parents",
+     "en": "Parents"
+    },
+    "value": {
+     "fr": "Arthur Caron et Alphonsine Gagnon",
+     "en": "Arthur Caron and Alphonsine Gagnon"
+    },
+    "sources": [
+     "charettegen10/enfance.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Rosario Charette, 16 janvier 1917 ou 1916 (les sources diffèrent), paroisse Saint-Zotique",
+     "en": "Rosario Charette, January 16, 1917 or 1916 (sources differ), Saint-Zotique parish"
+    },
+    "sources": [
+     "2vies/index.html",
+     "charettegen8-9/alph2.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "8 juillet 1966, Marieville",
+     "en": "July 8, 1966, Marieville"
+    },
+    "sources": [
+     "2vies/index.html",
+     "charettegen10/m_a-ros.htm"
+    ]
+   }
+  ],
+  "spouse": "rosario-charette",
+  "parents": {
+   "fr": "Arthur Caron et Alphonsine Gagnon",
+   "en": "Arthur Caron and Alphonsine Gagnon"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Thérèse (1918)",
+     "en": "Thérèse (1918)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Benoît (1919)",
+     "en": "Benoît (1919)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Gérard (1921)",
+     "en": "Gérard (1921)"
+    },
+    "id": "gerard-charette"
+   },
+   {
+    "name": {
+     "fr": "Rosaire (1923)",
+     "en": "Rosaire (1923)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Jean-Noël (1926)",
+     "en": "Jean-Noël (1926)"
+    }
+   },
+   {
+    "name": {
+     "fr": "une fille mort-née (1931)",
+     "en": "a stillborn daughter (1931)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Ghislaine (1935)",
+     "en": "Ghislaine (1935)"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "2vies/index.html",
+    "seg": "1"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "3"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "5"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "7"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "10"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "12"
+   },
+   {
+    "page": "charettegen10/enfance.htm",
+    "seg": "22"
+   },
+   {
+    "page": "charettegen10/m_a-ros.htm",
+    "seg": "23"
+   }
+  ],
+  "period": "1890-1950"
+ },
+ {
+  "id": "rosario-charette",
+  "name": "Rosario Charette",
+  "years": "1897–1940",
+  "portrait": {
+   "src": "charettegen10/images/Rosario1.jpg",
+   "caption": {
+    "fr": "Rosario",
+    "en": "Rosario"
+   }
+  },
+  "summary": {
+   "fr": "Né à Saint-Henri, fils d'Alphonse Charette fils et de Marie Lavoie; 10e génération Charette. Propriétaire du Garage Philippe.",
+   "en": "Born in Saint-Henri, son of Alphonse Charette Jr. and Marie Lavoie; 10th Charette generation. Owner of the Garage Philippe."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "20 janvier 1897 (ou 29 janvier : les sources diffèrent), 1096 rue Saint-Antoine, Saint-Henri",
+     "en": "January 20, 1897 (or January 29: sources differ), 1096 rue Saint-Antoine, Saint-Henri"
+    },
+    "sources": [
+     "charettegen10/enfance.htm",
+     "caron/caron.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Parents",
+     "en": "Parents"
+    },
+    "value": {
+     "fr": "Alphonse Charette fils et Marie Lavoie",
+     "en": "Alphonse Charette Jr. and Marie Lavoie"
+    },
+    "sources": [
+     "charettegen8-9/alph2.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Marie-Anna Caron, 16 janvier 1917 ou 1916 (les sources diffèrent)",
+     "en": "Marie-Anna Caron, January 16, 1917 or 1916 (sources differ)"
+    },
+    "sources": [
+     "charettegen10/m_a-ros.htm",
+     "charettegen8-9/alph2.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "21 mai 1940, Saint-Henri",
+     "en": "May 21, 1940, Saint-Henri"
+    },
+    "sources": [
+     "charettegen10/m_a-ros.htm",
+     "charettegen8-9/alph2.htm"
+    ]
+   }
+  ],
+  "spouse": "marie-anna-caron",
+  "parents": {
+   "fr": "Alphonse Charette fils et Marie Lavoie",
+   "en": "Alphonse Charette Jr. and Marie Lavoie"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Thérèse (1918)",
+     "en": "Thérèse (1918)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Benoît (1919)",
+     "en": "Benoît (1919)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Gérard (1921)",
+     "en": "Gérard (1921)"
+    },
+    "id": "gerard-charette"
+   },
+   {
+    "name": {
+     "fr": "Rosaire (1923)",
+     "en": "Rosaire (1923)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Jean-Noël (1926)",
+     "en": "Jean-Noël (1926)"
+    }
+   },
+   {
+    "name": {
+     "fr": "une fille mort-née (1931)",
+     "en": "a stillborn daughter (1931)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Ghislaine (1935)",
+     "en": "Ghislaine (1935)"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen10/enfance.htm",
+    "seg": "2"
+   },
+   {
+    "page": "charettegen10/m_a-ros.htm",
+    "seg": "2"
+   },
+   {
+    "page": "charettegen10/m_a-ros.htm",
+    "seg": "3"
+   },
+   {
+    "page": "charettegen10/m_a-ros.htm",
+    "seg": "5"
+   },
+   {
+    "page": "charettegen10/m_a-ros.htm",
+    "seg": "7"
+   },
+   {
+    "page": "charettegen10/m_a-ros.htm",
+    "seg": "13"
+   },
+   {
+    "page": "charettegen10/m_a-ros.htm",
+    "seg": "16"
+   },
+   {
+    "page": "charettegen10/m_a-ros.htm",
+    "seg": "20"
+   },
+   {
+    "page": "charettegen10/m_a-ros.htm",
+    "seg": "21"
+   },
+   {
+    "page": "charettegen10/m_a-ros.htm",
+    "seg": "22"
+   }
+  ],
+  "period": "1890-1950"
+ },
+ {
+  "id": "ezilda-cote",
+  "name": "Ézilda Côté",
+  "years": "1891–1964",
+  "portrait": {
+   "src": "guerre-charles/images/ez_1919.jpg",
+   "caption": {
+    "fr": "Ézilda Côté, 1919",
+    "en": "Ézilda Côté, 1919"
+   }
+  },
+  "summary": {
+   "fr": "Née à Québec, fille de Gaudias Côté, cordonnier, et de Georgiana Pageau. Épouse de Charles Consigny; elle passe sa vie à Maisonneuve.",
+   "en": "Born in Quebec City, daughter of Gaudias Côté, a shoemaker, and Georgiana Pageau. Wife of Charles Consigny; she spends her life in Maisonneuve."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "27 décembre 1891, paroisse Saint-Sauveur, Québec",
+     "en": "December 27, 1891, Saint-Sauveur parish, Quebec City"
+    },
+    "sources": [
+     "consigny_2/FAM_COTE.HTM",
+     "2vies/index.html"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Parents",
+     "en": "Parents"
+    },
+    "value": {
+     "fr": "Gaudias Côté et Georgiana Pageau",
+     "en": "Gaudias Côté and Georgiana Pageau"
+    },
+    "sources": [
+     "consigny_2/FAM_COTE.HTM"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Charles Consigny, 28 juillet 1919, paroisse Très-St-Nom-de-Jésus, Montréal",
+     "en": "Charles Consigny, July 28, 1919, Très-St-Nom-de-Jésus parish, Montréal"
+    },
+    "sources": [
+     "consigny_2/VIE.HTM"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "17 octobre 1964, Montréal",
+     "en": "October 17, 1964, Montréal"
+    },
+    "sources": [
+     "2vies/index.html",
+     "consigny_2/VIE.HTM"
+    ]
+   }
+  ],
+  "spouse": "charles-consigny",
+  "parents": {
+   "fr": "Gaudias Côté et Georgiana Pageau",
+   "en": "Gaudias Côté and Georgiana Pageau"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Arsène (1921)",
+     "en": "Arsène (1921)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Fabiola (1922)",
+     "en": "Fabiola (1922)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Jacqueline (1926)",
+     "en": "Jacqueline (1926)"
+    },
+    "id": "jacqueline-consigny"
+   },
+   {
+    "name": {
+     "fr": "Jeanne (1929–1936)",
+     "en": "Jeanne (1929–1936)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Aurise (1933)",
+     "en": "Aurise (1933)"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "2vies/index.html",
+    "seg": "2"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "4"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "6"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "8"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "11"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "13"
+   },
+   {
+    "page": "consigny_2/FAM_COTE.HTM",
+    "seg": "35"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "30"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "44"
+   }
+  ],
+  "period": "1890-1950"
+ },
+ {
+  "id": "charles-consigny",
+  "name": "Charles Consigny",
+  "years": "1893–1941",
+  "portrait": {
+   "src": "consigny_2/IMAGES/293kCharles1.jpg",
+   "caption": {
+    "fr": "Charles Consigny",
+    "en": "Charles Consigny"
+   }
+  },
+  "summary": {
+   "fr": "Fils d'Arsène Consigny et d'Amanda Thibaudeau, de Québec. Artilleur pendant toute la Première Guerre mondiale, puis de nouveau soldat en 1940.",
+   "en": "Son of Arsène Consigny and Amanda Thibaudeau, of Quebec City. A gunner throughout the First World War, then a soldier again in 1940."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "28 février 1893 (jumeau d'Arsène-Ivanhoé)",
+     "en": "February 28, 1893 (twin of Arsène-Ivanhoé)"
+    },
+    "sources": [
+     "consigny_2/index.html"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Parents",
+     "en": "Parents"
+    },
+    "value": {
+     "fr": "Arsène Consigny et Amanda Thibaudeau",
+     "en": "Arsène Consigny and Amanda Thibaudeau"
+    },
+    "sources": [
+     "consigny_2/index.html"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Service militaire",
+     "en": "Military service"
+    },
+    "value": {
+     "fr": "1914–1919 : Artillerie canadienne, 1st Canadian Heavy Battery, matricule 43804, artilleur. 1940–1941 : Garde des vétérans du Canada",
+     "en": "1914–1919: Canadian Artillery, 1st Canadian Heavy Battery, service no. 43804, gunner. 1940–1941: Veterans Guard of Canada"
+    },
+    "sources": [
+     "consigny_2/VIE.HTM",
+     "guerre-charles/resume.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Ézilda Côté, 28 juillet 1919",
+     "en": "Ézilda Côté, July 28, 1919"
+    },
+    "sources": [
+     "consigny_2/VIE.HTM"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "19 octobre 1941, Kingston",
+     "en": "October 19, 1941, Kingston"
+    },
+    "sources": [
+     "consigny_2/VIE.HTM"
+    ]
+   }
+  ],
+  "spouse": "ezilda-cote",
+  "parents": {
+   "fr": "Arsène Consigny et Amanda Thibaudeau",
+   "en": "Arsène Consigny and Amanda Thibaudeau"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Arsène (1921)",
+     "en": "Arsène (1921)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Fabiola (1922)",
+     "en": "Fabiola (1922)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Jacqueline (1926)",
+     "en": "Jacqueline (1926)"
+    },
+    "id": "jacqueline-consigny"
+   },
+   {
+    "name": {
+     "fr": "Jeanne (1929–1936)",
+     "en": "Jeanne (1929–1936)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Aurise (1933)",
+     "en": "Aurise (1933)"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "consigny_2/index.html",
+    "seg": "54"
+   },
+   {
+    "page": "consigny_2/index.html",
+    "seg": "56"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "7"
+   },
+   {
+    "page": "guerre-charles/resume.htm",
+    "seg": "2"
+   },
+   {
+    "page": "guerre-charles/resume.htm",
+    "seg": "3"
+   },
+   {
+    "page": "guerre-charles/resume.htm",
+    "seg": "4"
+   },
+   {
+    "page": "guerre-charles/resume.htm",
+    "seg": "5"
+   },
+   {
+    "page": "guerre-charles/resume.htm",
+    "seg": "6"
+   },
+   {
+    "page": "guerre-charles/resume.htm",
+    "seg": "7"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "14"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "15"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "19"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "20"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "23"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "26"
+   }
+  ],
+  "period": "1890-1950"
+ },
+ {
+  "id": "gerard-charette",
+  "name": "Gérard Charette",
+  "years": "1921–1996",
+  "portrait": {
+   "src": "communion/IMAGES/GERARD1.JPG",
+   "caption": {
+    "fr": "Gérard Charette, première communion",
+    "en": "Gérard Charette, first communion"
+   }
+  },
+  "summary": {
+   "fr": "Fils de Rosario Charette et de Marie-Anna Caron; 11e génération Charette. Il sert en Europe à la fin de la Seconde Guerre mondiale.",
+   "en": "Son of Rosario Charette and Marie-Anna Caron; 11th Charette generation. He serves in Europe at the end of the Second World War."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "19 octobre 1921, 444 Sainte-Émélie, Montréal",
+     "en": "October 19, 1921, 444 Sainte-Émélie, Montréal"
+    },
+    "sources": [
+     "charettegen10/descendance.htm",
+     "charettegen11/index.html"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Parents",
+     "en": "Parents"
+    },
+    "value": {
+     "fr": "Rosario Charette et Marie-Anna Caron",
+     "en": "Rosario Charette and Marie-Anna Caron"
+    },
+    "sources": [
+     "charettegen10/descendance.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Jacqueline Consigny, 29 juin 1946, paroisse Saint-Jean-Baptiste-de-Lasalle",
+     "en": "Jacqueline Consigny, June 29, 1946, Saint-Jean-Baptiste-de-Lasalle parish"
+    },
+    "sources": [
+     "charettegen10/descendance.htm",
+     "2vies/index.html"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Années",
+     "en": "Years"
+    },
+    "value": {
+     "fr": "1921–1996",
+     "en": "1921–1996"
+    },
+    "sources": [
+     "communion/HTM/GERARD.HTM",
+     "charettegen10/rosigr.htm"
+    ]
+   }
+  ],
+  "spouse": "jacqueline-consigny",
+  "parents": {
+   "fr": "Rosario Charette et Marie-Anna Caron",
+   "en": "Rosario Charette and Marie-Anna Caron"
+  },
+  "excerpts": [
+   {
+    "page": "charettegen11/index.html",
+    "seg": "2"
+   },
+   {
+    "page": "charettegen11/index.html",
+    "seg": "3"
+   },
+   {
+    "page": "charettegen10/descendance.htm",
+    "seg": "7"
+   },
+   {
+    "page": "charettegen10/descendance.htm",
+    "seg": "17"
+   }
+  ],
+  "period": "1890-1950",
+  "also": [
+   "1950-2005"
+  ]
+ },
+ {
+  "id": "jacqueline-consigny",
+  "name": "Jacqueline Consigny",
+  "years": "1926–1986",
+  "portrait": {
+   "src": "communion/IMAGES/JACQUE10.JPG",
+   "caption": {
+    "fr": "Jacqueline Consigny, première communion",
+    "en": "Jacqueline Consigny, first communion"
+   }
+  },
+  "summary": {
+   "fr": "Fille de Charles Consigny et d'Ézilda Côté, née à Maisonneuve. Elle épouse Gérard Charette en 1946.",
+   "en": "Daughter of Charles Consigny and Ézilda Côté, born in Maisonneuve. She marries Gérard Charette in 1946."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "7 août 1926",
+     "en": "August 7, 1926"
+    },
+    "sources": [
+     "consigny_2/descendance.HTM"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Parents",
+     "en": "Parents"
+    },
+    "value": {
+     "fr": "Charles Consigny et Ézilda Côté",
+     "en": "Charles Consigny and Ézilda Côté"
+    },
+    "sources": [
+     "consigny_2/descendance.HTM"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Gérard Charette, 29 juin 1946",
+     "en": "Gérard Charette, June 29, 1946"
+    },
+    "sources": [
+     "consigny_2/descendance.HTM",
+     "2vies/index.html"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Années",
+     "en": "Years"
+    },
+    "value": {
+     "fr": "1926–1986",
+     "en": "1926–1986"
+    },
+    "sources": [
+     "communion/HTM/Jacqueline.htm"
+    ]
+   }
+  ],
+  "spouse": "gerard-charette",
+  "parents": {
+   "fr": "Charles Consigny et Ézilda Côté",
+   "en": "Charles Consigny and Ézilda Côté"
+  },
+  "excerpts": [
+   {
+    "page": "consigny_2/descendance.HTM",
+    "seg": "9"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "34"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "38"
+   },
+   {
+    "page": "consigny_2/VIE.HTM",
+    "seg": "35"
+   },
+   {
+    "page": "2vies/index.html",
+    "seg": "9"
+   }
+  ],
+  "period": "1890-1950",
+  "also": [
+   "1950-2005"
+  ]
+ },
+ {
+  "id": "robert-caron",
+  "period": "1613-1700",
+  "name": "Robert Caron",
+  "years": "1613?–1656",
+  "summary": {
+   "fr": "Le premier de toutes les lignées connues de la famille à arriver en Nouvelle-France, en 1634, avec Robert Giffard. Ancêtre d'Arthur Caron, le père de Marie-Anna.",
+   "en": "The first of all the family's known lines to arrive in New France, in 1634, with Robert Giffard. Ancestor of Arthur Caron, Marie-Anna's father."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "probablement le 22 juillet 1613, Rouen",
+     "en": "probably July 22, 1613, Rouen"
+    },
+    "sources": [
+     "caron/caron.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Arrivée",
+     "en": "Arrived"
+    },
+    "value": {
+     "fr": "4 juin 1634",
+     "en": "June 4, 1634"
+    },
+    "sources": [
+     "caron/caron.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Marie Crevet, 25 octobre 1637",
+     "en": "Marie Crevet, October 25, 1637"
+    },
+    "sources": [
+     "caron/caron.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "8 juillet 1656, Hôtel-Dieu de Québec (« à 44 ans »)",
+     "en": "July 8, 1656, Hôtel-Dieu, Québec (\"aged 44\")"
+    },
+    "sources": [
+     "caron/caron.htm"
+    ]
+   }
+  ],
+  "spouse_name": "Marie Crevet",
+  "parents": null,
+  "children": [
+   {
+    "name": {
+     "fr": "Marie (1639)",
+     "en": "Marie (1639)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Jean-Baptiste (1641)",
+     "en": "Jean-Baptiste (1641)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Robert (1647)",
+     "en": "Robert (1647)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Catherine (1649)",
+     "en": "Catherine (1649)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Joseph (1652)",
+     "en": "Joseph (1652)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Pierre (1654)",
+     "en": "Pierre (1654)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Aymée (1656)",
+     "en": "Aymée (1656)"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "caron/caron.htm",
+    "seg": "2"
+   },
+   {
+    "page": "caron/caron.htm",
+    "seg": "4"
+   },
+   {
+    "page": "caron/caron.htm",
+    "seg": "7"
+   },
+   {
+    "page": "caron/caron.htm",
+    "seg": "11"
+   },
+   {
+    "page": "caron/caron.htm",
+    "seg": "18"
+   },
+   {
+    "page": "caron/caron.htm",
+    "seg": "23"
+   },
+   {
+    "page": "caron/caron.htm",
+    "seg": "28"
+   }
+  ]
+ },
+ {
+  "id": "mathieu-choret",
+  "period": "1613-1700",
+  "name": "Mathieu Choret",
+  "years": "?–1664",
+  "summary": {
+   "fr": "Le premier Charette (Choret) d'Amérique. Venu de La Rochelle comme engagé des Jésuites en 1643, il revient en 1647 avec sa femme Sébastienne Veillon et s'établit près de Beauport.",
+   "en": "The first Charette (Choret) in America. He came from La Rochelle as an engagé of the Jesuits in 1643, returned in 1647 with his wife Sébastienne Veillon and settled near Beauport."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Origine",
+     "en": "Origin"
+    },
+    "value": {
+     "fr": "paroisse Notre-Dame-de-Cougnes, La Rochelle",
+     "en": "Notre-Dame-de-Cougnes parish, La Rochelle"
+    },
+    "sources": [
+     "charettegen1/origines.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Arrivée",
+     "en": "Arrived"
+    },
+    "value": {
+     "fr": "1643, engagé des Jésuites",
+     "en": "1643, as an engagé of the Jesuits"
+    },
+    "sources": [
+     "charettegen1/engage.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Sébastienne Veillon, 4 mars 1647, La Rochelle",
+     "en": "Sébastienne Veillon, March 4, 1647, La Rochelle"
+    },
+    "sources": [
+     "charettegen1/mariage.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Terre",
+     "en": "Land"
+    },
+    "value": {
+     "fr": "seigneurie Notre-Dame-des-Anges (contrat du 6 mars 1649)",
+     "en": "Seigneury of Notre-Dame-des-Anges (contract of March 6, 1649)"
+    },
+    "sources": [
+     "charettegen1/famille.htm",
+     "zone/terre.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "27 mars 1664, Hôtel-Dieu de Québec",
+     "en": "March 27, 1664, Hôtel-Dieu, Quebec"
+    },
+    "sources": [
+     "charettegen1/deces.htm"
+    ]
+   }
+  ],
+  "spouse": "sebastienne-veillon",
+  "children": [
+   {
+    "name": {
+     "fr": "Robert (1648)",
+     "en": "Robert (1648)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Joseph (1650)",
+     "en": "Joseph (1650)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Jeanne (1652)",
+     "en": "Jeanne (1652)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Pierre l'aîné (1655)",
+     "en": "Pierre the elder (1655)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Ignace (1655)",
+     "en": "Ignace (1655)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Jean (1657)",
+     "en": "Jean (1657)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Pierre le cadet (1662)",
+     "en": "Pierre the younger (1662)"
+    },
+    "id": "pierre-le-cadet-choret"
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen1/engage.htm",
+    "seg": "3"
+   },
+   {
+    "page": "charettegen1/mariage.htm",
+    "seg": "34"
+   },
+   {
+    "page": "charettegen1/famille.htm",
+    "seg": "16"
+   },
+   {
+    "page": "charettegen1/famille.htm",
+    "seg": "25"
+   },
+   {
+    "page": "charettegen1/deces.htm",
+    "seg": "13"
+   }
+  ]
+ },
+ {
+  "id": "sebastienne-veillon",
+  "period": "1613-1700",
+  "name": "Sébastienne Veillon",
+  "years": "1616/1626–1698",
+  "summary": {
+   "fr": "Originaire du Poitou, elle vit à La Rochelle quand elle épouse Mathieu Choret en 1647. Veuve en 1664, elle se remarie avec Pierre Aufroy et meurt à Beauport.",
+   "en": "From Poitou, she was living in La Rochelle when she married Mathieu Choret in 1647. Widowed in 1664, she remarried Pierre Aufroy and died in Beauport."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "entre 1616 et 1626 (plus probablement 1616–1618)",
+     "en": "between 1616 and 1626 (most likely 1616–1618)"
+    },
+    "sources": [
+     "charettegen1/sebastienne.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariages",
+     "en": "Marriages"
+    },
+    "value": {
+     "fr": "Mathieu Choret, 1647; Pierre Aufroy, 25 août 1664",
+     "en": "Mathieu Choret, 1647; Pierre Aufroy, August 25, 1664"
+    },
+    "sources": [
+     "charettegen1/mariage.htm",
+     "charettegen1/sebastienne.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "21 décembre 1698, Beauport",
+     "en": "December 21, 1698, Beauport"
+    },
+    "sources": [
+     "charettegen1/sebastienne.htm"
+    ]
+   }
+  ],
+  "spouse": "mathieu-choret",
+  "children": [
+   {
+    "name": {
+     "fr": "voir Mathieu Choret",
+     "en": "see Mathieu Choret"
+    },
+    "id": "mathieu-choret"
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen1/sebastienne.htm",
+    "seg": "2"
+   },
+   {
+    "page": "charettegen1/sebastienne.htm",
+    "seg": "21"
+   },
+   {
+    "page": "charettegen1/sebastienne.htm",
+    "seg": "55"
+   },
+   {
+    "page": "charettegen1/mariage.htm",
+    "seg": "4"
+   }
+  ]
+ },
+ {
+  "id": "pierre-le-cadet-choret",
+  "period": "1613-1700",
+  "name": {
+   "fr": "Pierre le cadet Choret",
+   "en": "Pierre Choret the younger"
+  },
+  "years": "1662–1736",
+  "summary": {
+   "fr": "Dernier fils de Mathieu et de Sébastienne, né à Beauport; 2e génération. Il épouse Marie-Anne Beaugis, qui lui donne dix-huit enfants.",
+   "en": "Mathieu and Sébastienne's last son, born in Beauport; 2nd generation. He marries Marie-Anne Beaugis, who bears him eighteen children."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "21 janvier 1662, Beauport",
+     "en": "January 21, 1662, Beauport"
+    },
+    "sources": [
+     "charettegen2/enfance.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Marie-Anne Beaugis, 21 janvier 1686, Beauport",
+     "en": "Marie-Anne Beaugis, January 21, 1686, Beauport"
+    },
+    "sources": [
+     "charettegen2/famille.htm",
+     "charettegen1/descendance.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "5 mai 1736, Beauport",
+     "en": "May 5, 1736, Beauport"
+    },
+    "sources": [
+     "charettegen2/famille.htm"
+    ]
+   }
+  ],
+  "spouse_name": {
+   "fr": "Marie-Anne Beaugis (1665 ou 1669 – 1748)",
+   "en": "Marie-Anne Beaugis (1665 or 1669 – 1748)"
+  },
+  "parents": {
+   "fr": "Mathieu Choret et Sébastienne Veillon",
+   "en": "Mathieu Choret and Sébastienne Veillon"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Pierre (1690) et dix-sept autres enfants, de 1688 à 1718",
+     "en": "Pierre (1690) and seventeen other children, 1688 to 1718"
+    },
+    "id": "pierre-choret"
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen2/enfance.htm",
+    "seg": "2"
+   },
+   {
+    "page": "charettegen2/famille.htm",
+    "seg": "2"
+   },
+   {
+    "page": "charettegen2/famille.htm",
+    "seg": "20"
+   },
+   {
+    "page": "charettegen2/famille.htm",
+    "seg": "44"
+   },
+   {
+    "page": "charettegen2/famille.htm",
+    "seg": "45"
+   }
+  ]
+ },
+ {
+  "id": "pierre-choret",
+  "period": "1700-1800",
+  "name": "Pierre Choret",
+  "years": "1690–1749",
+  "summary": {
+   "fr": "3e génération. Né à Beauport l'année de l'attaque de Phips, il épouse Angélique Turcot à Charlesbourg puis, vers 1717, s'installe dans la région de Montréal.",
+   "en": "3rd generation. Born in Beauport the year of Phips's attack, he marries Angélique Turcot in Charlesbourg, then around 1717 settles in the Montreal area."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "24 février 1690, Beauport",
+     "en": "February 24, 1690, Beauport"
+    },
+    "sources": [
+     "charettegen3/enfance.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Angélique Turcot, 1er février 1712, Charlesbourg",
+     "en": "Angélique Turcot, February 1, 1712, Charlesbourg"
+    },
+    "sources": [
+     "charettegen3/vie.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "22 juillet 1749, Sault-au-Récollet",
+     "en": "July 22, 1749, Sault-au-Récollet"
+    },
+    "sources": [
+     "charettegen3/vie.htm"
+    ]
+   }
+  ],
+  "spouse_name": "Angélique Turcot (1691–)",
+  "parents": {
+   "fr": "Pierre le cadet Choret et Marie-Anne Beaugis",
+   "en": "Pierre the younger Choret and Marie-Anne Beaugis"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Marie-Anne (1713)",
+     "en": "Marie-Anne (1713)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Élisabeth (1714)",
+     "en": "Élisabeth (1714)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Pierre (1716)",
+     "en": "Pierre (1716)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Louise (1718)",
+     "en": "Louise (1718)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Joseph (1719)",
+     "en": "Joseph (1719)"
+    },
+    "id": "joseph-choret"
+   },
+   {
+    "name": {
+     "fr": "et d'autres",
+     "en": "and others"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen3/enfance.htm",
+    "seg": "1"
+   },
+   {
+    "page": "charettegen3/vie.htm",
+    "seg": "15"
+   },
+   {
+    "page": "charettegen3/vie.htm",
+    "seg": "28"
+   },
+   {
+    "page": "charettegen3/vie.htm",
+    "seg": "30"
+   },
+   {
+    "page": "charettegen3/vie.htm",
+    "seg": "36"
+   }
+  ]
+ },
+ {
+  "id": "joseph-choret",
+  "period": "1700-1800",
+  "name": "Joseph Choret",
+  "years": "1719–1792",
+  "summary": {
+   "fr": "4e génération. Né à Montréal, il épouse Marie-Anne Lemay le même jour que son frère Pierre épouse la sœur de celle-ci, au Sault-au-Récollet.",
+   "en": "4th generation. Born in Montreal, he marries Marie-Anne Lemay on the same day his brother Pierre marries her sister, at Sault-au-Récollet."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "25 ou 26 septembre 1719, Montréal (les sources diffèrent)",
+     "en": "September 25 or 26, 1719, Montreal (sources differ)"
+    },
+    "sources": [
+     "charettegen4/index.html",
+     "charettegen3/descendance.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Marie-Anne Lemay, 8 janvier 1742, Sault-au-Récollet",
+     "en": "Marie-Anne Lemay, January 8, 1742, Sault-au-Récollet"
+    },
+    "sources": [
+     "charettegen4/descendance.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Terre",
+     "en": "Land"
+    },
+    "value": {
+     "fr": "en 1781, ferme de 3 arpents sur 20, Côte de la Visitation",
+     "en": "in 1781, a 3-by-20-arpent farm on the Côte de la Visitation"
+    },
+    "sources": [
+     "charettegen4/vie.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "29 août 1792, Sault-au-Récollet",
+     "en": "August 29, 1792, Sault-au-Récollet"
+    },
+    "sources": [
+     "charettegen4/index.html"
+    ]
+   }
+  ],
+  "spouse_name": "Marie-Anne Lemay (1725–)",
+  "parents": {
+   "fr": "Pierre Choret et Angélique Turcot",
+   "en": "Pierre Choret and Angélique Turcot"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Marie-Élisabeth (1743)",
+     "en": "Marie-Élisabeth (1743)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Jean-Baptiste (1749)",
+     "en": "Jean-Baptiste (1749)"
+    },
+    "id": "jean-baptiste-chauret"
+   },
+   {
+    "name": {
+     "fr": "Pierre (1750)",
+     "en": "Pierre (1750)"
+    }
+   },
+   {
+    "name": {
+     "fr": "et d'autres",
+     "en": "and others"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen4/index.html",
+    "seg": "3"
+   },
+   {
+    "page": "charettegen4/index.html",
+    "seg": "7"
+   },
+   {
+    "page": "charettegen4/vie.htm",
+    "seg": "9"
+   },
+   {
+    "page": "charettegen4/descendance.htm",
+    "seg": "3"
+   },
+   {
+    "page": "charettegen4/descendance.htm",
+    "seg": "5"
+   },
+   {
+    "page": "charettegen4/descendance.htm",
+    "seg": "6"
+   }
+  ]
+ },
+ {
+  "id": "jean-baptiste-chauret",
+  "period": "1700-1800",
+  "name": "Jean-Baptiste Chauret",
+  "years": "1749–1798",
+  "summary": {
+   "fr": "5e génération. Né en Nouvelle-France au Sault-au-Récollet, il a dix ans à la Conquête. Il épouse Marie-Joseph Lorain; onze enfants.",
+   "en": "5th generation. Born in New France at Sault-au-Récollet, he is ten at the Conquest. He marries Marie-Joseph Lorain; eleven children."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "23 mars 1749, Sault-au-Récollet",
+     "en": "March 23, 1749, Sault-au-Récollet"
+    },
+    "sources": [
+     "charettegen5/vie.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Marie-Joseph Lorain, 13 octobre 1774, Rivière-des-Prairies",
+     "en": "Marie-Joseph Lorain, October 13, 1774, Rivière-des-Prairies"
+    },
+    "sources": [
+     "charettegen5/vie.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "13 juin 1798",
+     "en": "June 13, 1798"
+    },
+    "sources": [
+     "charettegen4/descendance.htm"
+    ]
+   }
+  ],
+  "spouse_name": "Marie-Joseph Lorain",
+  "parents": {
+   "fr": "Joseph Choret et Marie-Anne Lemay",
+   "en": "Joseph Choret and Marie-Anne Lemay"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Jean-Baptiste (1779)",
+     "en": "Jean-Baptiste (1779)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Jacques (1781)",
+     "en": "Jacques (1781)"
+    },
+    "id": "jacques-charette-1781"
+   },
+   {
+    "name": {
+     "fr": "Louis-Amable (1782)",
+     "en": "Louis-Amable (1782)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Agathe (1787)",
+     "en": "Agathe (1787)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Basile (1792)",
+     "en": "Basile (1792)"
+    }
+   },
+   {
+    "name": {
+     "fr": "et d'autres",
+     "en": "and others"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen5/vie.htm",
+    "seg": "2"
+   },
+   {
+    "page": "charettegen5/vie.htm",
+    "seg": "4"
+   },
+   {
+    "page": "charettegen5/vie.htm",
+    "seg": "6"
+   },
+   {
+    "page": "charettegen5/vie.htm",
+    "seg": "8"
+   },
+   {
+    "page": "charettegen5/descendance.htm",
+    "seg": "14"
+   },
+   {
+    "page": "charettegen5/descendance.htm",
+    "seg": "16"
+   }
+  ]
+ },
+ {
+  "id": "jacques-charette-1781",
+  "period": "1800-1890",
+  "name": {
+   "fr": "Jacques Charette (1781)",
+   "en": "Jacques Charette (1781)"
+  },
+  "years": "1781–1869",
+  "summary": {
+   "fr": "6e génération. Né au Sault-au-Récollet, baptisé Louis; marié à Saint-Laurent de Montréal. Très probablement milicien pendant la guerre de 1812.",
+   "en": "6th generation. Born at Sault-au-Récollet, baptized Louis; married in Saint-Laurent, Montreal. Very probably a militiaman in the War of 1812."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "2 avril 1781, Sault-au-Récollet (ou 1777 : les sources diffèrent)",
+     "en": "April 2, 1781, Sault-au-Récollet (or 1777: sources differ)"
+    },
+    "sources": [
+     "charettegen6/vie.htm",
+     "charettegen6/cle1.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Marguerite Varin dite la Pistole, 26 février 1810",
+     "en": "Marguerite Varin dite la Pistole, February 26, 1810"
+    },
+    "sources": [
+     "charettegen6/vie.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "5 août 1869, Montréal (ou 1896 : les sources diffèrent)",
+     "en": "August 5, 1869, Montreal (or 1896: sources differ)"
+    },
+    "sources": [
+     "charettegen6/vie.htm",
+     "charettegen5/descendance.htm"
+    ]
+   }
+  ],
+  "spouse_name": "Marguerite Varin dite la Pistole",
+  "parents": {
+   "fr": "Jean-Baptiste Chauret et Marie-Joseph Lorain",
+   "en": "Jean-Baptiste Chauret and Marie-Joseph Lorain"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Louis (1811)",
+     "en": "Louis (1811)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Jacques (1813)",
+     "en": "Jacques (1813)"
+    },
+    "id": "jacques-charette-1813"
+   },
+   {
+    "name": {
+     "fr": "Pierre (1817)",
+     "en": "Pierre (1817)"
+    }
+   },
+   {
+    "name": {
+     "fr": "François (1819)",
+     "en": "François (1819)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Rosalie (1821)",
+     "en": "Rosalie (1821)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Benjamin (1824)",
+     "en": "Benjamin (1824)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Praxède, Sophie, Michel",
+     "en": "Praxède, Sophie, Michel"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen6/vie.htm",
+    "seg": "2"
+   },
+   {
+    "page": "charettegen6/vie.htm",
+    "seg": "3"
+   },
+   {
+    "page": "charettegen6/vie.htm",
+    "seg": "6"
+   },
+   {
+    "page": "charettegen6/vie.htm",
+    "seg": "15"
+   }
+  ]
+ },
+ {
+  "id": "jacques-charette-1813",
+  "period": "1800-1890",
+  "name": {
+   "fr": "Jacques Charette (1813)",
+   "en": "Jacques Charette (1813)"
+  },
+  "years": "1813–1897",
+  "summary": {
+   "fr": "7e génération. Né trois jours après la bataille de Châteauguay; marié à Théotiste Dubois. De Saint-Jérôme à Saint-Sauveur-des-Monts, la famille s'installe à Saint-Henri en 1871.",
+   "en": "7th generation. Born three days after the Battle of Châteauguay; married Théotiste Dubois. From Saint-Jérôme to Saint-Sauveur-des-Monts, the family settles in Saint-Henri in 1871."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "29 octobre 1813, Saint-Laurent de Montréal",
+     "en": "October 29, 1813, Saint-Laurent, Montreal"
+    },
+    "sources": [
+     "charettegen7/vie.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Théotiste Dubois, 16 novembre 1835, Sainte-Anne-des-Plaines",
+     "en": "Théotiste Dubois, November 16, 1835, Sainte-Anne-des-Plaines"
+    },
+    "sources": [
+     "charettegen7/vie.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "17 décembre 1897, à 84 ans",
+     "en": "December 17, 1897, aged 84"
+    },
+    "sources": [
+     "charettegen7/vie.htm"
+    ]
+   }
+  ],
+  "spouse_name": "Théotiste Dubois (–1890)",
+  "parents": {
+   "fr": "Jacques Charette et Marguerite Varin",
+   "en": "Jacques Charette and Marguerite Varin"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Charles (1837)",
+     "en": "Charles (1837)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Julienne (1839)",
+     "en": "Julienne (1839)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Olympe (1842)",
+     "en": "Olympe (1842)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Alphonse (1850)",
+     "en": "Alphonse (1850)"
+    },
+    "id": "alphonse-charette-pere"
+   },
+   {
+    "name": {
+     "fr": "Jacques (1856)",
+     "en": "Jacques (1856)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Hélène (1861)",
+     "en": "Hélène (1861)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Élisa (1865)",
+     "en": "Élisa (1865)"
+    }
+   },
+   {
+    "name": {
+     "fr": "et d'autres",
+     "en": "and others"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen7/vie.htm",
+    "seg": "3"
+   },
+   {
+    "page": "charettegen7/vie.htm",
+    "seg": "5"
+   },
+   {
+    "page": "charettegen7/vie.htm",
+    "seg": "22"
+   },
+   {
+    "page": "charettegen7/vie.htm",
+    "seg": "26"
+   },
+   {
+    "page": "charettegen7/vie.htm",
+    "seg": "37"
+   }
+  ]
+ },
+ {
+  "id": "alphonse-charette-pere",
+  "period": "1800-1890",
+  "name": {
+   "fr": "Alphonse Charette père",
+   "en": "Alphonse Charette Sr."
+  },
+  "years": "1850–1919",
+  "portrait": null,
+  "summary": {
+   "fr": "8e génération. Maçon devenu entrepreneur et propriétaire à Saint-Henri; avec Rosianne Miron, il a quatorze enfants. Sa maison du 1106 rue Saint-Antoine est le lieu des réunions de famille.",
+   "en": "8th generation. A mason turned contractor and property owner in Saint-Henri; with Rosianne Miron he has fourteen children. His house at 1106 rue Saint-Antoine is where the family gathers."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "14 septembre 1850, Saint-Jérôme",
+     "en": "September 14, 1850, Saint-Jérôme"
+    },
+    "sources": [
+     "charettegen8-9/alph1.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Rosianne Miron, 25 février 1873, Montréal",
+     "en": "Rosianne Miron, February 25, 1873, Montreal"
+    },
+    "sources": [
+     "charettegen8-9/alph1.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "25 avril 1919",
+     "en": "April 25, 1919"
+    },
+    "sources": [
+     "charettegen10/m_a-ros.htm"
+    ]
+   }
+  ],
+  "spouse_name": "Rosianne Miron (1856–1935)",
+  "parents": {
+   "fr": "Jacques Charette et Théotiste Dubois",
+   "en": "Jacques Charette and Théotiste Dubois"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Alphonse (1874)",
+     "en": "Alphonse (1874)"
+    },
+    "id": "alphonse-charette-fils"
+   },
+   {
+    "name": {
+     "fr": "Rose-Anna (1877)",
+     "en": "Rose-Anna (1877)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Alexina (1882)",
+     "en": "Alexina (1882)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Arthur (1885)",
+     "en": "Arthur (1885)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Oscar (1887)",
+     "en": "Oscar (1887)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Ernest, Lumina (1890)",
+     "en": "Ernest, Lumina (1890)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Mary (1892)",
+     "en": "Mary (1892)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Aldéric (1895)",
+     "en": "Aldéric (1895)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Irène (1897)",
+     "en": "Irène (1897)"
+    }
+   },
+   {
+    "name": {
+     "fr": "et d'autres",
+     "en": "and others"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen8-9/alph1.htm",
+    "seg": "2"
+   },
+   {
+    "page": "charettegen8-9/alph1.htm",
+    "seg": "3"
+   },
+   {
+    "page": "charettegen8-9/alph1.htm",
+    "seg": "4"
+   },
+   {
+    "page": "charettegen8-9/alph1.htm",
+    "seg": "7"
+   },
+   {
+    "page": "charettegen8-9/alph1.htm",
+    "seg": "8"
+   },
+   {
+    "page": "charettegen8-9/alph1.htm",
+    "seg": "9"
+   }
+  ]
+ },
+ {
+  "id": "alphonse-charette-fils",
+  "period": "1800-1890",
+  "name": {
+   "fr": "Alphonse Charette fils",
+   "en": "Alphonse Charette Jr."
+  },
+  "years": "1874–1916",
+  "portrait": {
+   "src": "charettegen8-9/images/alph2.jpg",
+   "caption": {
+    "fr": "Alphonse Charette fils, jeune",
+    "en": "Alphonse Charette Jr. as a young man"
+   }
+  },
+  "summary": {
+   "fr": "9e génération. Maçon et entrepreneur comme son père; il épouse Marie Lavoie en 1893. Des neuf enfants du couple, seuls deux grandissent, dont Rosario.",
+   "en": "9th generation. A mason and contractor like his father; he marries Marie Lavoie in 1893. Of the couple's nine children only two grow up, including Rosario."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "13 février 1874, Saint-Henri",
+     "en": "February 13, 1874, Saint-Henri"
+    },
+    "sources": [
+     "charettegen8-9/alph2.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "Marie Lavoie, 15 mai 1893, Saint-Henri",
+     "en": "Marie Lavoie, May 15, 1893, Saint-Henri"
+    },
+    "sources": [
+     "charettegen8-9/alph2.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "9 juillet 1916",
+     "en": "July 9, 1916"
+    },
+    "sources": [
+     "charettegen8-9/alph2.htm"
+    ]
+   }
+  ],
+  "spouse_name": "Marie Lavoie (1875–1914)",
+  "parents": {
+   "fr": "Alphonse Charette père et Rosianne Miron",
+   "en": "Alphonse Charette Sr. and Rosianne Miron"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Rosario (1897)",
+     "en": "Rosario (1897)"
+    },
+    "id": "rosario-charette"
+   },
+   {
+    "name": {
+     "fr": "Alexandre (1901–1924)",
+     "en": "Alexandre (1901–1924)"
+    }
+   },
+   {
+    "name": {
+     "fr": "sept enfants morts en bas âge",
+     "en": "seven children who died young"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "charettegen8-9/alph2.htm",
+    "seg": "2"
+   },
+   {
+    "page": "charettegen8-9/alph2.htm",
+    "seg": "4"
+   },
+   {
+    "page": "charettegen8-9/alph2.htm",
+    "seg": "7"
+   },
+   {
+    "page": "charettegen8-9/alph2.htm",
+    "seg": "8"
+   },
+   {
+    "page": "charettegen8-9/alph2.htm",
+    "seg": "11"
+   },
+   {
+    "page": "charettegen8-9/alph2.htm",
+    "seg": "13"
+   }
+  ]
+ },
+ {
+  "id": "alphonsine-gagnon",
+  "period": "1800-1890",
+  "name": "Alphonsine Gagnon",
+  "years": "1869–1929",
+  "summary": {
+   "fr": "Mère de Marie-Anna Caron. Née à Saint-Pacôme, fille de François Gagnon et d'Ombéline Dionne; elle descend des Gagnon et des Dionne du Bas-du-Fleuve et épouse Arthur Caron, descendant de Robert Caron.",
+   "en": "Marie-Anna Caron's mother. Born in St-Pacôme, daughter of François Gagnon and Ombéline Dionne; she descends from the Gagnons and Dionnes of the lower St. Lawrence and marries Arthur Caron, a descendant of Robert Caron."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Naissance",
+     "en": "Born"
+    },
+    "value": {
+     "fr": "26 août 1869, Saint-Pacôme (baptême : 26 ou 25 août)",
+     "en": "August 26, 1869, St-Pacôme (baptism: August 26 or 25)"
+    },
+    "sources": [
+     "caron/alphonsine.htm",
+     "caron/ombeline.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariages",
+     "en": "Marriages"
+    },
+    "value": {
+     "fr": "Arthur Caron, 12 octobre 1891; Zénon Laframboise, 1913",
+     "en": "Arthur Caron, October 12, 1891; Zénon Laframboise, 1913"
+    },
+    "sources": [
+     "caron/alphonsine.htm",
+     "charettegen10/enfance.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Décès",
+     "en": "Died"
+    },
+    "value": {
+     "fr": "12 octobre 1929, Montréal",
+     "en": "October 12, 1929, Montreal"
+    },
+    "sources": [
+     "caron/alphonsine.htm"
+    ]
+   }
+  ],
+  "spouse_name": "Arthur Caron (1867/1868 – 1904/1905)",
+  "parents": {
+   "fr": "François Gagnon et Ombéline Dionne",
+   "en": "François Gagnon and Ombéline Dionne"
+  },
+  "children": [
+   {
+    "name": {
+     "fr": "Jean (1893)",
+     "en": "Jean (1893)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Marie-Anna (1897)",
+     "en": "Marie-Anna (1897)"
+    },
+    "id": "marie-anna-caron"
+   },
+   {
+    "name": {
+     "fr": "Antonio (1899)",
+     "en": "Antonio (1899)"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "caron/alphonsine.htm",
+    "seg": "2"
+   },
+   {
+    "page": "caron/alphonsine.htm",
+    "seg": "5"
+   },
+   {
+    "page": "caron/alphonsine.htm",
+    "seg": "6"
+   },
+   {
+    "page": "caron/alphonsine.htm",
+    "seg": "28"
+   },
+   {
+    "page": "caron/ombeline.htm",
+    "seg": "4"
+   }
+  ]
+ },
+ {
+  "id": "cote-pageau",
+  "period": "1800-1890",
+  "name": {
+   "fr": "Gaudias Côté et Georgiana Pageau",
+   "en": "Gaudias Côté and Georgiana Pageau"
+  },
+  "years": "1863–1951",
+  "portrait": {
+   "src": "consigny_2/IMAGES/fam_cote.jpg",
+   "caption": {
+    "fr": "La famille Gaudias Côté vers 1902-1903",
+    "en": "The Gaudias Côté family around 1902–1903"
+   }
+  },
+  "summary": {
+   "fr": "Les parents d'Ézilda Côté. Gaudias, cordonnier puis commerçant et charretier, et Georgiana, d'une lignée Pageau de Charlesbourg remontant à 1675, quittent Québec pour Maisonneuve vers 1903.",
+   "en": "Ézilda Côté's parents. Gaudias, a shoemaker, then a tradesman and carter, and Georgiana, of a Pageau line from Charlesbourg going back to 1675, leave Quebec City for Maisonneuve around 1903."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "Gaudias",
+     "en": "Gaudias"
+    },
+    "value": {
+     "fr": "né le 12 avril 1863 (Québec), mort le 14 mai 1918",
+     "en": "born April 12, 1863 (Québec City), died May 14, 1918"
+    },
+    "sources": [
+     "consigny_2/FAM_COTE.HTM",
+     "consigny_2/arbre_genealogique.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Georgiana",
+     "en": "Georgiana"
+    },
+    "value": {
+     "fr": "née le 25 juillet 1865 (Charlesbourg), morte le 4 août 1951",
+     "en": "born July 25, 1865 (Charlesbourg), died August 4, 1951"
+    },
+    "sources": [
+     "consigny_2/arbre_genealogique.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Mariage",
+     "en": "Marriage"
+    },
+    "value": {
+     "fr": "6 novembre 1882, Saint-Sauveur, Québec",
+     "en": "November 6, 1882, Saint-Sauveur, Québec City"
+    },
+    "sources": [
+     "consigny_2/FAM_COTE.HTM"
+    ]
+   },
+   {
+    "label": {
+     "fr": "Parents de Gaudias",
+     "en": "Gaudias's parents"
+    },
+    "value": {
+     "fr": "Pierre Côté et Salomée Pleau, mariés le 21 juillet 1856",
+     "en": "Pierre Côté and Salomée Pleau, married July 21, 1856"
+    },
+    "sources": [
+     "consigny_2/arbre_genealogique.htm"
+    ]
+   }
+  ],
+  "parents": null,
+  "children": [
+   {
+    "name": {
+     "fr": "Éva (1883)",
+     "en": "Éva (1883)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Laura (1886)",
+     "en": "Laura (1886)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Docilia (1889)",
+     "en": "Docilia (1889)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Ézilda (1891)",
+     "en": "Ézilda (1891)"
+    },
+    "id": "ezilda-cote"
+   },
+   {
+    "name": {
+     "fr": "Blanche (1894)",
+     "en": "Blanche (1894)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Évangéline (1901)",
+     "en": "Évangéline (1901)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Marie-Anne (1903)",
+     "en": "Marie-Anne (1903)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Azarias (1906)",
+     "en": "Azarias (1906)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Émilien (1907)",
+     "en": "Émilien (1907)"
+    }
+   },
+   {
+    "name": {
+     "fr": "et d'autres morts en bas âge",
+     "en": "and others who died young"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "consigny_2/FAM_COTE.HTM",
+    "seg": "6"
+   },
+   {
+    "page": "consigny_2/FAM_COTE.HTM",
+    "seg": "28"
+   },
+   {
+    "page": "consigny_2/FAM_COTE.HTM",
+    "seg": "30"
+   },
+   {
+    "page": "consigny_2/FAM_COTE.HTM",
+    "seg": "32"
+   },
+   {
+    "page": "consigny_2/FAM_COTE.HTM",
+    "seg": "33"
+   },
+   {
+    "page": "consigny_2/arbre_genealogique.htm",
+    "seg": "116"
+   },
+   {
+    "page": "consigny_2/arbre_genealogique.htm",
+    "seg": "117"
+   }
+  ]
+ },
+ {
+  "id": "famille-consigny",
+  "period": "1700-1800",
+  "name": {
+   "fr": "Les Sanfaçon dit Consigny",
+   "en": "The Sanfaçon dit Consigny family"
+  },
+  "years": "1735–1907",
+  "summary": {
+   "fr": "La lignée paternelle de Charles Consigny, de François Sanfaçon dit Consigny, venu de France et marié à Québec en 1735, jusqu'à Arsène Consigny et Amanda Thibaudeau, de Saint-Roch.",
+   "en": "Charles Consigny's paternal line, from François Sanfaçon dit Consigny, who came from France and married in Québec in 1735, down to Arsène Consigny and Amanda Thibaudeau, of Saint-Roch."
+  },
+  "facts": [
+   {
+    "label": {
+     "fr": "1735",
+     "en": "1735"
+    },
+    "value": {
+     "fr": "François Sanfaçon dit Consigny et Marie-Louise (ou Marie-Anne) Ducharme, Québec",
+     "en": "François Sanfaçon dit Consigny and Marie-Louise (or Marie-Anne) Ducharme, Québec"
+    },
+    "sources": [
+     "consigny_2/arbre_genealogique.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "1779",
+     "en": "1779"
+    },
+    "value": {
+     "fr": "Jean-Nicolas Sanfaçon et Marie Vaillancourt, Saint-Jean-Port-Joli",
+     "en": "Jean-Nicolas Sanfaçon and Marie Vaillancourt, St-Jean-Port-Joli"
+    },
+    "sources": [
+     "consigny_2/arbre_genealogique.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "1803",
+     "en": "1803"
+    },
+    "value": {
+     "fr": "Jean-Nicolas Sanfaçon dit Conscient et Josephte Thériault, Rivière-Ouelle",
+     "en": "Jean-Nicolas Sanfaçon dit Conscient and Josephte Thériault, Rivière-Ouelle"
+    },
+    "sources": [
+     "consigny_2/arbre_genealogique.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "1843",
+     "en": "1843"
+    },
+    "value": {
+     "fr": "Nicolas Sanfaçon dit Consigny et Basilisse Landry, Kamouraska",
+     "en": "Nicolas Sanfaçon dit Consigny and Basilisse Landry, Kamouraska"
+    },
+    "sources": [
+     "consigny_2/arbre_genealogique.htm"
+    ]
+   },
+   {
+    "label": {
+     "fr": "1888",
+     "en": "1888"
+    },
+    "value": {
+     "fr": "Arsène Consigny (1865–1896) et Amanda Thibaudeau (1862–1907), Québec",
+     "en": "Arsène Consigny (1865–1896) and Amanda Thibaudeau (1862–1907), Québec City"
+    },
+    "sources": [
+     "consigny_2/arbre_genealogique.htm",
+     "consigny_2/index.html"
+    ]
+   }
+  ],
+  "parents": null,
+  "children": [
+   {
+    "name": {
+     "fr": "Crescence (1889)",
+     "en": "Crescence (1889)"
+    }
+   },
+   {
+    "name": {
+     "fr": "Charles (1893)",
+     "en": "Charles (1893)"
+    },
+    "id": "charles-consigny"
+   },
+   {
+    "name": {
+     "fr": "Antoine (1896)",
+     "en": "Antoine (1896)"
+    }
+   },
+   {
+    "name": {
+     "fr": "enfants d'Arsène et d'Amanda, et d'autres morts en bas âge",
+     "en": "children of Arsène and Amanda, and others who died young"
+    }
+   }
+  ],
+  "excerpts": [
+   {
+    "page": "consigny_2/arbre_genealogique.htm",
+    "seg": "35"
+   },
+   {
+    "page": "consigny_2/arbre_genealogique.htm",
+    "seg": "36"
+   },
+   {
+    "page": "consigny_2/arbre_genealogique.htm",
+    "seg": "123"
+   },
+   {
+    "page": "consigny_2/index.html",
+    "seg": "6"
+   },
+   {
+    "page": "consigny_2/index.html",
+    "seg": "16"
+   }
+  ]
+ }
+]

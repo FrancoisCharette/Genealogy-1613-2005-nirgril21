@@ -1,0 +1,180 @@
+@@ 4
+PAGES
+@@ a1
+B_Robert_Choret.jpg (53835 bytes)
+@@ 10
+B Robert
+@@ a2
+B_Robert_copie.jpg (91408 bytes)
+@@ a3
+B_Jos_fils_Mathieu.jpg (77689 bytes)
+@@ 12
+B Joseph
+@@ a4
+B_Joseph_copie.jpg (104090 bytes)
+@@ a5
+B_Jeanne_Choret.jpg (43711 bytes)
+@@ 14
+B Jeanne
+@@ a6
+B_Jeanne_copie.jpg (82848 bytes)
+@@ a7
+B_Pierre_Ignace_Choret.jpg (58366 bytes)
+@@ a8
+B_Rob_Ignace_copie.jpg (130725 bytes)
+@@ a9
+B_Jean Choret.jpg (43707 bytes)
+@@ 18
+B Jean
+@@ a10
+B_Jean_copie.jpg (90618 bytes)
+@@ a11
+S_Mathieu Choret.jpg (37245 bytes)
+@@ 22
+S Mathieu Choret
+@@ a12
+S_Mathieu_copie.jpg (77077 bytes)
+@@ a13
+M_Veillon-Aufroy_original.jpg (70026 bytes)
+@@ 24
+M Veillon-Aufroy
+@@ a14
+M_Veillon-Aufroy.jpg (306224 bytes)
+@@ a15
+S_S.Veillon.jpg (161257 bytes)
+@@ a16
+S_Pierre Aufroy.jpg (89688 bytes)
+@@ a17
+B_Marie-anne Beaugis.jpg (87320 bytes)
+@@ 30
+B Marie-Anne Beaugis
+@@ a18
+M_Pierre lejeune Choret.jpg (123327 bytes)
+@@ 31
+M Choret - Beaugis
+@@ a19
+M_Pierre l'aine_Choret.jpg (125538 bytes)
+@@ a20
+S_Pierre lejeune_Choret.jpg (105560 bytes)
+@@ 33
+S Pierre Lejeune
+@@ a21
+S_m-a_beaugis.jpg (117063 bytes)
+@@ 34
+S Marie-Anne Beaugis
+@@ a22
+B_Pierre2_Choret.jpg (116867 bytes)
+@@ a23
+B_Angelique_orig..jpg (84574 bytes)
+@@ 37
+B Angélique
+@@ a24
+B_Angelique_copie.jpg (102380 bytes)
+@@ a25
+M_Choret-Turcot.jpg (250050 bytes)
+@@ 39
+M Choret-Turcot
+@@ a26
+S_Pierre2_Choret.jpg (82854 bytes)
+@@ 40
+S Pierre
+@@ a27
+M_Angelique2_original.jpg (162540 bytes)
+@@ a28
+M_Angelique2.jpg (154237 bytes)
+@@ a29
+S_Jacques messier.jpg (61749 bytes)
+@@ a30
+Siganture pierre gen 3.jpg (4202 bytes)
+@@ a31
+S_Jean Turcot VO.jpg (72445 bytes)
+@@ a33
+B_Joseph_Choret.jpg (149376 bytes)
+@@ 48
+B Joseph Choret
+@@ a34
+B_Marie-Anne Lemay.jpg (188819 bytes)
+@@ 49
+B Marie-Anne Lemay
+@@ a35
+M_Joseph Choret.jpg (166757 bytes)
+@@ a36
+M_Pierre3 Choret.jpg (175178 bytes)
+@@ a37
+M_Charlotte Choret.jpg (185895 bytes)
+@@ a38
+S_Joseph_Choret.jpg (102882 bytes)
+@@ 53
+S Joseph Choret
+@@ a39
+S_Marieanne Lemay.jpg (117725 bytes)
+@@ 54
+S Marie-Anne
+@@ a40
+B_Pierre_fils joseph.jpg (71326 bytes)
+@@ a41
+B_Pierre3_Choret.jpg (81153 bytes)
+@@ a42
+B_M_cat_Lemay.jpg (65726 bytes)
+@@ a44
+S_Pierre3_Choret.jpg (81835 bytes)
+@@ a45
+M_Cadot-Lemay.jpg (132214 bytes)
+@@ a46
+S_Lemay_Cadot.jpg (67521 bytes)
+@@ a50
+M_louis choret_lorain.jpg (158562 bytes)
+@@ a52
+B_J.B.Choret_ne_1749.jpg (84577 bytes)
+@@ a53
+M1_Choret-Lorain.jpg (189883 bytes)
+@@ a54
+M2_Choret-Lorain.jpg (221861 bytes)
+@@ a55
+M3_Choret-Lorain.jpg (229649 bytes)
+@@ a56
+M4_Choret-Lorain.jpg (106740 bytes)
+@@ a57
+S_J.B._Chauret.jpg (49568 bytes)
+@@ 75
+S Jean-Baptiste&nbsp;<br>
+      <a href="images/S_Marie_Lorain.jpg"><img border="0" src="images/S_Marie_Lorain_small.jpg" alt="S_Marie_Lorain.jpg (74425 octets)" width="79" height="41"><br>
+      </a>S Marie Lorain
+@@ a59
+M_lorain_ranger.jpg (135305 bytes)
+@@ a61
+B_Jacques 1 Chauret.jpg (49719 bytes)
+@@ a62
+B_m amable varin.jpg (75688 bytes)
+@@ 79
+B Marie-Amable Varin
+@@ a63
+M_Choret-Varin.jpg (164548 bytes)
+@@ 80
+M Choret - Varin
+@@ a64
+S_Jacques1_charette.jpg (47642 bytes)
+@@ a65
+B_Jacques2_Choret.jpg (52362 bytes)
+@@ 83
+B Jacques
+@@ a66
+B_Theotiste_Dubois.jpg (92699 bytes)
+@@ 84
+B Théotiste
+@@ a67
+M_charette-dubois.jpg (274030 bytes)
+@@ 85
+M Charette -Dubois
+@@ a68
+S_Theotiste Dubois.jpg (99924 bytes)
+@@ 86
+S Théotiste
+@@ a69
+S_Jacques2_charette.jpg (69393 bytes)
+@@ 87
+S Jacques
+@@ a70
+M_Dubois_Papineau.jpg (486778 bytes)
+@@ 89
+PAGES

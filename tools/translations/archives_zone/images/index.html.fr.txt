@@ -1,0 +1,43 @@
+@@ title
+Page d'accueil
+@@ 8
+MATHIEU CHORET, SÉBASTIENNE VEILLON</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="../../charettegen1/accueil.htm" target="_blank">1ère
+        génération
+@@ 27
+aucun registre&nbsp;<br>
+      original trouvé
+@@ 28
+S Aufroy <font size="2">18-11-1700 St-François I.O.&nbsp;<br>
+ à trouver
+@@ 29
+PIERRE LEJEUNE CHORET, MARIE-ANNE BEAUGIS</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="../../charettegen2/index.html" target="_blank">2ème
+        génération
+@@ 36
+PIERRE CHORET, ANGÉLIQUE TURCOT</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="../../charettegen3/index.html" target="_blank">3ème
+        génération
+@@ 48
+JOSEPH CHORET, MARIE-ANNE LEMAY</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a target="_blank" href="../../charettegen4/index.html">4ème
+        génération
+@@ 57
+LE MYSTÈRE DE LA 4è ET LA 5è GÉNÉRATION:&nbsp;<br>
+        </b>Voici les faits connus à date:<br>
+        Deux frères Choret, Pierre et Joseph, ont épousé deux sœurs Lemay.
+        Chaque couple a eu un enfant prénommé Jean-Baptiste. Celui de Pierre
+        se serait fait appeler Louis. Ces deux cousins ont épousés deux sœurs
+        Lorain.
+@@ 67
+JEAN-BAPTISTE CHORET, M.-JOSEPHTE LORAIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><a href="../../charettegen5/index.html" target="_blank">5ème
+        génération
+@@ 69
+B M-Josephte&nbsp; Lorain&nbsp; <font size="2">(probablement à Riv. des Prairies,
+      des années manquent aux registres, pas trouvé à date)
+@@ 78
+JACQUES CHARETTE, M-A. MARGUERITE VARIN</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../../charettegen6/index.html" target="_blank">6ème
+        génération
+@@ 83
+JACQUES CHARETTE, THÉOTISTE DUBOIS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><a href="../../charettegen7/index.html" target="_blank">7ème
+        génération

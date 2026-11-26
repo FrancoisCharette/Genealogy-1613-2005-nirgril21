@@ -1,0 +1,4 @@
+@@ 1
+Cliquez sur le
+parchemin, <u>exactement sur la ligne de la génération</u> dont vous
+voulez visiter le site.

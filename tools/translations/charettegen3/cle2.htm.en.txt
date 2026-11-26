@@ -1,0 +1,413 @@
+@@ frtitle
+Montréal, une ville importante
+@@ title
+Montreal, an important town
+@@ 1
+MONTREAL,
+        AN IMPORTANT TOWN
+@@ 2
+The
+        first Montrealers, fervent zealots.
+@@ 3
+It was
+        around 1636, in the little town of La Flèche in France, that an idea
+        began to take root in the mind of a devout man named <font color="#462810"><b> Jérôme</b></font><b><font color="#462810">
+        Le Royer, sieur de La Dauversière</font><font color="#616130"> </font></b></font><font face="Arial" size="2">(shown here)</font><font face="Arial" size="3">,
+        </font><font face="Times New Roman" size="3">
+        a humble tax collector.&nbsp; <br>
+        He wished to found a mystical, religious town in the land of America,
+        a small community where French and Native people would live in
+        harmony in the Christian faith.
+@@ 4
+The project slowly made its way,
+        but only took shape in 1639 with the creation of the &quot;Société
+        Notre-Dame de Montréal pour la conversion des Sauvages de la
+        Nouvelle-France&quot; (Society of Notre-Dame of Montreal for the conversion of the Savages of New France).&nbsp; Very influential members, such as
+        Jean-Jacques Olier, managed to raise enough money to buy
+        the island of Montreal from Jean de Lauson in 1640.&nbsp; They then
+        hired a leader for their venture, <b><font color="#462810">Paul de
+        Chomedey, sieur de Maisonneuve</font></b>, a devout soldier retired from active
+        service.&nbsp; Shortly afterwards, <b><font color="#462810">Jeanne
+        Mance</font></b> joined them as bursar and nurse, her
+        first intention being to set up a hospital.
+@@ 5
+In 1641 they finally set sail, their heads
+        full of the wildest dreams.&nbsp; No one really knew
+        the geography or where the island was, and yet everyone was
+        certain that faith could overcome every obstacle.&nbsp; The project
+        resembled that of the Jesuits, since it consisted of converting and
+        settling the &quot; Savages &quot; so as to unite them with the French
+        in the Christian religion.&nbsp; Chomedey de Maisonneuve
+        officially took possession of Montreal on October 15.&nbsp; The season being
+        too far advanced to settle there, he resolved to spend the winter in Quebec,
+        where people urged him to settle on Île d'Orléans instead,
+        explaining that Montreal was far too exposed to the Iroquois, but
+        nothing would change his mind.
+@@ 6
+In the spring of
+        <font color="#462810"><b>1642</b></font>, while the
+        members of the Société Notre-Dame met in Paris to
+        consecrate the island to the Virgin Mary, Maisonneuve began
+        building and fortifying.&nbsp; By the time the first
+        snow fell, Montreal already had a palisade, a temporary building
+        for Jeanne Mance and the governor, and four little houses where
+        the settlers crowded together.
+@@ 7
+The first winter went well despite
+        the fear of a flood.&nbsp; The threat was so serious that
+        the Sieur de Maisonneuve promised to plant <b><font color="#462810">a
+        cross on Mount Royal</font></b> if they were spared from the waters.&nbsp;
+        Then in the spring more comfortable houses were built for the
+        settlers.&nbsp; Little by little the town grew, and a few Algonquins
+        took refuge inside the palisade.&nbsp; Soon there were
+        more of them than at Sillery.&nbsp; This early success, moreover, stirred
+        the jealousy of the Jesuits, who accused the Montrealers of
+        meddling in diplomatic relations with the Native peoples and
+        complicating the fur trade.
+@@ 8
+It was in the summer of 1643 that the Iroquois
+        became aware of the French presence on the island of Montreal and
+        began a series of ambushes that spread terror in the
+        town.&nbsp; But the Montrealers were brave and did not pack
+        up.&nbsp; They had faith and were determined to carry out their
+        mission whatever the cost.
+@@ 9
+In 1645 Jeanne Mance's hospital,
+        <b><font color="#462810">the Hôtel-Dieu</font></b>, was built near
+        the fort, on high ground.&nbsp; It was of stone and held a
+        small chapel.&nbsp; Over the years the establishment
+        grew; a well was dug and a larger chapel built,
+        which became the parish church.&nbsp; <b><font color="#462810">Marguerite
+        Bourgeois</font></b> , for her part, finally managed in 1658, after
+        five years in the colony, to open her first school in a stable
+        and welcome her first pupils there.
+@@ 10
+The
+        hired men of the Grande Recrue (Great Recruitment)
+@@ 11
+Because of its location, Montreal
+        was especially vulnerable to Iroquois attacks.&nbsp; So the
+        population lived in constant fear of an
+        attack, and many engagés (indentured men) preferred to go back to France at the end of
+        their thirty-six or sixty months rather than settle for good.&nbsp;
+        According to the Jesuit Paul Ragueneau, in 1651 the town had about 50
+        inhabitants, and of these only 17 were fit to bear
+        arms.&nbsp; The situation was critical, and Montreal feared for its survival.
+@@ 12
+Seeing no other solution, Jeanne
+        Mance decided to hand the money she had received for building
+        a hospital to the Sieur de Maisonneuve so that he could go <b><font color="#462810"> to find
+        recruits in France</font></b>.&nbsp; She revealed to him the identity of her benefactress,
+        Madame de Bullion, who had nevertheless asked to remain anonymous.&nbsp; So Maisonneuve visited the lady, who, moved by
+        his story, offered him an additional sum.&nbsp; The members of the Société
+        de Notre-Dame also contributed, and recruiting
+        began.
+@@ 13
+The losses caused by <b><font color="#462810"> Iroquois
+        raids</font></b> had been made up each year by the arrival of five or
+        six men, but this time Maisonneuve wanted many more.&nbsp; In that
+        year of 1653, he hoped to bring back with him no fewer than 200 soldier-settlers.
+@@ 14
+His hopes, however, were too high.&nbsp;
+        Only 154 volunteers agreed to go with him to the colony.&nbsp;
+        On
+        the day of departure, only 113 boarded the
+        ship, the others having changed their minds along the way.&nbsp; Eight men died
+        during the crossing, so that only <b> <font color="#462810"> 105</font></b> landed
+        in Montreal.
+@@ 15
+Among these newcomers were
+        surgeons,
+        joiners, carpenters, gunsmiths, masons, millers, bakers,
+        locksmiths and a coppersmith.&nbsp; There were also
+        an edge-tool maker, a hatter, a nail maker, a roofer, a navvy and
+        a shoemaker, as well as a clog maker, a tailor and a gardener.
+@@ 16
+These <b><font color="#462810"> hired men of the Grande Recrue</font></b> were
+        a considerable addition, since thanks to them the population of Montreal
+        doubled at a stroke.&nbsp; These men came to ply their trades, but
+        also undertook to defend the town in case of attack.&nbsp; As soon as they
+        arrived, they were given a land grant and a bonus to encourage them
+        to stay.&nbsp; It must be said, though, that a lull in Iroquois attacks
+        made their settling in much easier.
+@@ 17
+So the Grande Recrue ensured the survival
+        of Montreal.&nbsp; Families came to settle there and clear
+        land, and little by little the town took off, but it would not feel
+        safe from Iroquois attacks or know peace until the arrival
+        of the Carignan-Salières regiment in 1665.
+@@ 18
+So the little farming colony
+        took off, but the plan to include the Native peoples did not have
+        the hoped-for success.&nbsp; Although Native people came to stay
+        for a while in Montreal, none settled there for good.&nbsp;
+        In 1663 the Société de Notre-Dame was dissolved, and a new generation
+        took over.&nbsp; The dream of creating, in a remote place, the ideal of
+        the original Christian society was now just an old memory.&nbsp;
+        From then on, faith gave way to economics.
+@@ 19
+The
+        battle of the Long-Sault
+@@ 20
+Dollard des Ormeaux: hero or bandit?&nbsp;
+        Some historians believe that Dollard saved the colony from certain destruction;&nbsp;
+        others see him simply as a vile, deceitful man
+        lured by the prospect of gain..&nbsp; But what really happened?&nbsp; Why and how did the
+        battle of the Long-Sault take place?
+@@ 21
+In 1659, under pressure
+        from the Iroquois, the Algonquins did not come to the
+        annual fair at Ville-Marie, which caused a shortage of furs
+        and a lack of funds in the little colony.&nbsp; <b><font color="#462810">Adam Dollard des
+        Ormeaux</font></b>,
+        a young man well liked by his superiors and fellow citizens and commander of
+        the garrison, decided to remedy the situation by setting a trap
+        for the Iroquois.&nbsp; He wanted to lie in ambush at the foot of the Long Sault on
+        the Ottawa River and surprise those coming back from hunting in the Great
+        Lakes with a load of pelts.&nbsp; His plan was to kill them and
+        then seize their furs.&nbsp; Governor Chomedey de
+        Maisonneuve approved the plan.
+@@ 22
+So on April 19, <b><font color="#462810">1660</font></b>, Dollard des Ormeaux
+        took command of an expedition of 17 men, joined by
+        some forty Hurons and six Algonquins.&nbsp; The party travelled
+        by night to the Long-Sault.&nbsp; On May 1 it settled into a
+        fort abandoned by the Algonquins.&nbsp; The very next day, two canoes
+        carrying 15 Iroquois appeared.&nbsp; At once the men took aim and
+        fired.&nbsp; Thirteen men were killed, but two managed to escape.
+@@ 23
+Dollard des Ormeaux's recruits
+        stayed put, expecting a few scattered bands
+        of Iroquois to turn up.&nbsp; So it was quite a surprise when they saw
+        an army of about 200 Iroquois arrive, come to drive
+        the French off the island of Montreal for good.&nbsp; Without delay, Dollard's
+        group took refuge inside the fort, and shooting broke out on
+        both sides.
+@@ 24
+Even though the French and their allies
+        had not foreseen such an encounter, they managed to mount
+        an attack and caused many casualties.&nbsp; Some Hurons even
+        cut off the head of an enemy chief and set it up as a trophy
+        on the palisade, which enraged the Iroquois, who
+        hurried off to get help from the 500 Agniers (Mohawks) with
+        whom they had planned to meet in the islands of the Richelieu to attack the
+        colony.
+@@ 25
+The Iroquois reinforcements took seven days
+        to arrive.&nbsp; Meanwhile, the French could not set foot
+        outside the fort without being shot at, and soon they were
+        very weak, for water and food were running out.&nbsp; When
+        the 500 warriors arrived from the Richelieu, the fight was already lost for
+        Dollard and his companions.<br>
+        Seeing themselves trapped, the Hurons decided to open talks with
+        the enemy, and 24 or 30 of them went over to the other side.&nbsp; Believing that
+        the whole party was ready to lay down its arms, a few Iroquois
+        approached the fort.&nbsp; But the anxious French opened fire and
+        killed the delegates.&nbsp; That was all it took to inflame the hatred of the
+        Iroquois, who rushed the palisade.
+@@ 26
+In a panic, the French took apart two
+        pistol barrels to use as grenades. When that
+        did not work, they thought of using a keg of powder, but when
+        they threw it over the palisade, it hit a branch and
+        fell back inside the fort. The resulting explosion was
+        catastrophic.&nbsp; The Iroquois took advantage of the situation to move in
+        and fire through the loopholes at anything that moved inside
+        the fort.&nbsp; When the
+        Iroquois got into the fort, they found only nine survivors,
+        five Frenchmen and four Hurons.
+@@ 27
+The obstacles the Iroquois
+        met on their way prevented the invasion of
+        New France.&nbsp; Dollard des Ormeaux and his companions had thus temporarily
+        turned the Iroquois army away from its goal.&nbsp; So their death was not
+        in vain.&nbsp; All the more so since these events allowed Radisson and
+        Des Groseillers to reach Montreal with a cargo of furs
+        valued at 200,000 livres, and a group of Outaouais (Ottawa) to come and trade
+        their beaver in Montreal.
+@@ 28
+But the Iroquois did not stop there.&nbsp;
+        They were persistent and, in the autumn of 1660, raised an army of
+        600 men, firmly resolved to wipe out New France.&nbsp; On
+        the way, the leader of the expedition was killed in an unfortunate
+        accident.&nbsp; Taking it as a bad omen, the party broke up.&nbsp;
+        In 1661,
+        however, the Iroquois came back to spread terror, killing more than 100
+        French settlers.&nbsp; It would take the Carignan regiment to bring
+        some measure of peace.
+@@ 29
+Highlights of
+        Montreal's early years
+@@ 30
+The year 1663 marked the end of the first
+        period of Montreal's settlement.&nbsp; The Société Notre-Dame,
+        no longer able to keep the colony supplied or to pay
+        the soldiers and engagés, handed over the seigneury of the island of Montreal
+        to the Seminary of Saint-Sulpice in Paris.
+@@ 31
+The
+        <b><font color="#462810">Sulpicians</font></b> governed
+        their seigneury.</font>&nbsp; <font face="Times New Roman" size="3">The
+        ideals of the mission in the wilderness gave way to the realities of
+        daily life, with farming and the fur trade as the main
+        economic activities. &nbsp;<br>
+        Montreal
+        was still only an outpost of French settlement in America,
+        but it was already<font color="#462810"> <b>t</b></font><b><font color="#462810">he heart of the fur trade with the Native nations
+        of the pays d'en haut</b>.&nbsp;</font></b><font color="#462810">.&nbsp;.&nbsp;</font>  Montreal became the economic
+        centre of the colony, and Quebec its administrative centre.
+@@ 32
+Absolutely all economic life
+      revolved around the fur trade.&nbsp; And to carry on this
+      trade, you had to go ever farther into the continent, into <b><font color="#462810">the
+      Pays d'en Haut</font></b> (Upper Country), that is, all the territories west
+      of Montreal that could be reached by
+      waterways.
+@@ 33
+In 1689 the first <a href="cle1.htm" target="_blank">intercolonial
+      war</a> began.&nbsp; Furs no longer sold and
+      piled up in the warehouses of La Rochelle, where they would
+      rot.&nbsp; France wanted to close the western posts, but the
+      Iroquois, allies of the English, were still at war, and France had to occupy the
+      territory so that it would not fall into English hands.&nbsp; In 1701 the governor of Montreal,
+      Callière, negotiated
+      the <b><font color="#462810"> Great Peace </font></b> with 33 Native nations,
+      including the Iroquois, so that the French
+      could sell their furs through the English, who had access to Northern
+      Europe.&nbsp; After the Treaty of Utrecht in 1713, the fur trade picked up again
+      more strongly than ever.
+@@ 34
+While everyone was looking westward for Asia and
+      its spices, the Spanish reached tropical America and its precious metals.&nbsp;
+      The French, English and Dutch, who sailed farther
+      north, fell back on &quot;<font color="#462810"><b>hairy gold</b></font>&quot;,
+      in other words fur, and in mockery a French outpost set up
+      around 1667 on the shores of Lac Saint-Louis was named <font color="#462810"><b>Lachine</b></font> (&quot;China&quot;).&nbsp;
+      The historian Faillon wrote: &quot; <i>it was a place more favourable
+      than any other for settlers who wished to trade with the savages;
+      and at bottom it was less farming than this kind of trade that
+      drew most of them</i> &quot;.&nbsp; Clever, daring and
+      determined to make their fortune with &quot;pelts&quot;, many
+      Canadiens set off on adventures.
+@@ 35
+Despite the risks of the journey, the
+      profits and the feeling of freedom the fur trade brought were so great
+      that in 1670 the authorities, fearing the seigneuries would empty out
+      in favour of the Pays d'en Haut, tried to crack down by forbidding unmarried men
+      to become coureurs des bois (woods runners).&nbsp; A &quot;congé&quot;, or
+      permit, was also needed to trade in furs.&nbsp; These permits
+      were issued by the civil and religious authorities, and gave rise
+      to a great deal of favouritism.&nbsp; So many tried their hand at trading
+      without a permit, and had to pay fines if they were
+      caught.
+@@ 36
+Major events
+        from 1643 to 1685
+@@ 37
+1643-1646: A bastioned fort
+            was built at Pointe à Callière.
+@@ 38
+1645: The first buildings
+            of the Hôtel-Dieu were built.
+@@ 39
+1647-1653: First Iroquois
+            war.
+@@ 40
+July 27, 1647: The first wedding
+            was celebrated in Montreal, uniting Anne Archambault and Michel
+            Chauvin.
+@@ 41
+January 1648: The first
+            lots were granted on the land set aside for the town.
+@@ 42
+October 2, 1651: A
+            common was granted along the riverbank.
+@@ 43
+October 16, 1652: After flushing out
+            a group of Iroquois, Sergeant-Major Lambert Closse managed to
+            repel a counter-attack with only 24 men.
+@@ 44
+1653: Arrival of 95 settlers.
+@@ 45
+1653: Marguerite
+            Bourgeoys arrived in Montreal.
+@@ 46
+1657: The parish of Notre-Dame de Montréal
+            was established. The parish was served
+            by the Sulpicians.
+@@ 47
+1657-1667: Second Iroquois
+            war.
+@@ 48
+1657-1678: Construction of the
+            Notre-Dame de Bon Secours chapel, an
+            initiative of Marguerite Bourgeoys, began in 1657. The work, abandoned,
+            was resumed in 1675 and completed in 1678.
+@@ 49
+1658: Marguerite Bourgeoys welcomed
+            her first schoolgirls in a former stable.
+@@ 50
+1659: Arrival of 91 settlers in
+            Ville-Marie.
+@@ 51
+1659: Arrival of the Hospital
+            Sisters of St. Joseph, at Jeanne Mance's request.
+@@ 52
+1659: A mill with a
+            redoubt was built on the hill that in those days overlooked the east of
+            Old Montreal.
+@@ 53
+1659-1661: The Sulpicians' first seminary
+            was built on rue Saint-Paul.
+@@ 54
+March 5, 1663: The Société de Notre-Dame de Montréal
+            handed over the seigneury of the island of Montreal
+            to the Seminary of Saint-Sulpice in Paris.
+@@ 55
+1665: Arrival of the
+            Carignan-Sallières regiment.
+@@ 56
+1672-1683: Notre-Dame church
+            was built on rue Notre-Dame.
+@@ 57
+July 1672: The first
+            streets of Montreal were laid out by François Dollier de Casson, superior of the
+            Sulpicians and Montreal's first historian, assisted by Bénigne
+            Basset, notaire (notary), clerk and surveyor.
+@@ 58
+1673: A road was opened from
+            the town to the parish of Lachine, upstream of the rapids
+            of the same name.
+@@ 59
+August 5, 1676: A market
+            square was established in the lower town.
+@@ 60
+1678: Marguerite Bourgeoys handed over the
+            Notre-Dame de Bon Secours chapel to the fabrique (parish council) of
+            the parish of Notre-Dame.
+@@ 61
+April 16, 1678: A royal edict
+            banned trading in the pays d'en haut.
+@@ 62
+1681: Since the ban on
+            trading in the pays d'en haut could not be enforced, this
+            trade was from then on allowed through the issuing of congés (or
+            travel permits).
+@@ 63
+1683: Notre-Dame church
+            was inaugurated.
+@@ 64
+1683-1688: The Saint-Sulpice seminary
+            was built on rue Notre-Dame.
+@@ 65
+1684-1701: Third Iroquois
+            war.
+@@ 66
+1685: A plan of Ville-Marie was drawn up
+            by an anonymous author. It shows the state of the town just
+            before a wooden palisade was built. It is the
+            oldest plan of the whole town to have come down to
+            us.
+@@ 67
+1685-1689: A wooden
+            palisade was built, enclosing and protecting the urban area of the time.

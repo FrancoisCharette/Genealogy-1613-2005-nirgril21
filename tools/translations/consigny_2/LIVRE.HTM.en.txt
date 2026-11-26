@@ -1,0 +1,27 @@
+@@ frtitle
+Livre du Souvenir
+@@ title
+Book of Remembrance
+@@ 1
+B</font></b><b><font size="4">OOK
+        OF REMEMBRANCE
+@@ 2
+THERE ARE CURRENTLY SIX BOOKS OF
+        REMEMBRANCE THAT COMMEMORATE, BY NAME, THE THOUSANDS OF CANADIANS WHO
+        LOST THEIR LIVES IN SUPPORT OF THE CAUSES CANADA DEFENDED IN
+        TIME OF WAR.
+@@ 3
+THESE BOOKS ARE&nbsp; DISPLAYED IN THE MEMORIAL
+        CHAMBER OF THE PEACE TOWER ON PARLIAMENT HILL IN
+        OTTAWA.
+@@ 4
+ONE PAGE IS TURNED EACH DAY.
+@@ 5
+CHARLES'S NAME APPEARS IN THE BOOK OF
+        REMEMBRANCE&nbsp; COVERING&nbsp;
+        THE YEAR 1941, PAGE 27.&nbsp; IT IS&nbsp; THE FIRST AT THE TOP OF THE LEFT-HAND COLUMN.
+@@ 6
+IT READS: <b>PTE CONSIGNY,CHARLES&nbsp; VGC</b>&nbsp;&nbsp;<br>
+</font>that is, Private
+Consigny,Charles&nbsp;&nbsp;&nbsp;<br>
+ Veterans Guard Canada

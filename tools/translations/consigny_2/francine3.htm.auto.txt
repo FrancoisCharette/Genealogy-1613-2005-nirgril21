@@ -1,0 +1,32 @@
+@@ a1
+21 rue st_pierre3.jpg (1505612 bytes)
+@@ a2
+21 rue st_pierre.JPG (159325 bytes)
+@@ a3
+575 du roi.JPG (77085 bytes)
+@@ a4
+575 du roi2.JPG (113118 bytes)
+@@ a5
+hospice.jpg (133019 bytes)
+@@ a6
+hospice basilisse landry.jpg (126927 bytes)
+@@ 8
+MONUMENT CONSIGNY
+@@ a7
+consigny2.JPG (224048 bytes)
+@@ a8
+consigny centre.JPG (197563 bytes)
+@@ 10
+MONUMENT THIBAUDEAU
+@@ a9
+thibaudeau1.JPG (270620 bytes)
+@@ a10
+thibaudeau.JPG (208827 bytes)
+@@ a11
+thibaudeau2.JPG (1389709 bytes)
+@@ 14
+MONUMENT PLEAU
+@@ a12
+pleau2.JPG (156438 bytes)
+@@ a13
+pleau.JPG (351710 bytes)

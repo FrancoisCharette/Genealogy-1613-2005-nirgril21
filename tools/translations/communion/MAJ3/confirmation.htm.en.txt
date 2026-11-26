@@ -1,0 +1,14 @@
+@@ frtitle
+La confirmation de Denis Charette
+@@ title
+Denis Charette's confirmation
+@@ 1
+The confirmation of
+        Denis Charette (born in 1962) in a Montréal parish.
+@@ 2
+(click on the
+        thumbnails)
+@@ a1
+denis.jpg (56026 bytes)
+@@ a2
+denis2.jpg (40516 bytes)

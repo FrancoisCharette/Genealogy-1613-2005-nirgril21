@@ -1,0 +1,27 @@
+@@ frtitle
+Carte de Kingston
+@@ title
+A Kingston postcard
+@@ 1
+Instead of a letter, Charles sometimes sent,
+        together in one envelope,&nbsp;
+        a series of postcards
+        that he numbered and
+that made up a complete set.</b>&nbsp; <span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-ansi-language:FR-CA;mso-fareast-language:FR;mso-bidi-language:AR-SA"><b style="mso-bidi-font-weight:normal">The
+following card is the 3<sup>rd</sup> of a series whose other cards
+we do not have.
+@@ 3
+The cards I'm sending you, I bought them on the chars (the
+train) on my way, and I'm sending them to you.<span style="mso-spacerun: yes">&nbsp;
+</span>Now I hope Jacqueline got home
+safely.
+@@ 4
+(Jacqueline had no doubt taken him
+to the station when he left for Kingston, where he was garrisoned.)
+@@ 2
+Les carte que je t’envoix
+j’ai achée ce-la dans les charre en <span style="mso-spacerun:
+yes">&nbsp;</span>menanlant et je te les envoix.</i>  <i style="mso-bidi-font-style:normal">Apresent
+jespaire que Jacqueline c’est très bien rendu a la mesont

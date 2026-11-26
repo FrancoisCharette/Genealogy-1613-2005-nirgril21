@@ -1,0 +1,33 @@
+@@ 1
+CAP ST-IGNACE
+@@ a1
+cap1.jpg (80742 bytes)
+@@ a2
+cap2.jpg (95717 bytes)
+@@ a3
+cap3.jpg (95871 bytes)
+@@ a4
+cap4.jpg (119175 bytes)
+@@ 18
+Marie-Anna,<font face="Times New Roman">
+her childhood</font></a><font face="Times New Roman">&nbsp;&nbsp;&nbsp; <a href="rosario.htm">Her
+husband Rosario</a>&nbsp;&nbsp;&nbsp; <a href="marie-anna.htm">Her family
+life</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="alphonsine.htm">Her
+mother Alphonsine</a>&nbsp;&nbsp; <a href="ombeline.htm">Her grandmother Ombéline</a>&nbsp; &nbsp;&nbsp;<br>
+<a href="ancetres.htm">Three founding families&nbsp;in
+the Bas du Fleuve</a><br>
+&nbsp;<a href="caron.htm">The Carons</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="gagnon.htm">The
+Gagnons</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="dionne.htm">The Dionnes</a>&nbsp;&nbsp;&nbsp;<br>
+<a href="capstignace.htm">Cap St-Ignace</a>&nbsp;&nbsp; <a href="stpacome.htm">St-Pacôme</a>&nbsp;&nbsp;&nbsp;
+<a href="rivouelle.htm">Rivière-Ouelle</a>&nbsp;&nbsp;&nbsp; <a href="pocatiere.htm">Ste-Anne-de-la-Pocatière</a>&nbsp;&nbsp;&nbsp;
+<a href="pistoles.htm">Trois-Pistoles&nbsp;</a>&nbsp;<br>
+</font><a href="index.html"><font face="Times New Roman">
+Home </font></a><font face="Times New Roman">&nbsp;&nbsp; <a href="plan.htm">
+Site map
+@@ 19
+Site created on&nbsp;August 27, 2002, for 800 x
+600.<br>
+Complete update of the site in September 2006
+@@ 20
+©nicole.charette@zonecharette.ca

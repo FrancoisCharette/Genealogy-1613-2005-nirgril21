@@ -1,0 +1,15 @@
+# FrontPage / editor leftovers
+_vti_*/
+__ti_*/
+_private/
+*.cnf
+*.btr
+*.lck
+WS_FTP.LOG
+pspbrwse.jbf
+Thumbs.db
+desktop.ini
+# too big for GitHub
+Vidéos/
+Archives ZoneCharette - tous les sites.pdf
+__pycache__/

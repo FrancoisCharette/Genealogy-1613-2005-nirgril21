@@ -1,0 +1,43 @@
+@@ 4
+FRANCE
+@@ 8
+ANGLETERRE
+@@ 13
+EUROPE
+@@ 62
+SHAKESPEARE,
+                  WILLIAM
+@@ 64
+CORNEILLE,
+          PIERRE
+@@ 68
+MOLIÈRE,
+                  J.B. POQUELIN
+@@ 72
+BOSSUET
+@@ 74
+PERRAULT,
+                  CHARLES
+@@ 78
+BOILEAU,
+                  NICOLAS
+@@ 80
+RACINE,
+                JEAN
+@@ 84
+FÉNELON
+@@ 106
+REMBRANT
+@@ 113
+MUSIQUE
+        BAROQUE
+@@ 147
+GUERICKE,
+    OTTO </font><font face="Arial" color="#49674B" size="2">VON
+@@ 194
+VERSAILLES
+@@ 197
+PLACE ST-PIERRE
+@@ 199
+TAJ</b></font><b><font color="#49674B" size="4">
+              MAHAL
